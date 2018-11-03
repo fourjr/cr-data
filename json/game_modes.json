@@ -42,7 +42,8 @@
         "clanWarDescription": "Play with a premade Classic Deck!",
         "battleStartCooldown": 6000,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000000
     },
     {
         "name": null,
@@ -87,7 +88,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000001
     },
     {
         "name": null,
@@ -132,7 +134,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000002
     },
     {
         "name": null,
@@ -177,7 +180,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000003
     },
     {
         "name": null,
@@ -222,7 +226,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000004
     },
     {
         "name": null,
@@ -267,7 +272,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000005
     },
     {
         "name": null,
@@ -312,7 +318,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000006
     },
     {
         "name": null,
@@ -357,7 +364,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000007
     },
     {
         "name": "DoubleElixir",
@@ -402,7 +410,8 @@
         "clanWarDescription": "Elixir generates at double speed!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000008
     },
     {
         "name": "ThreeBridges",
@@ -447,7 +456,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000009
     },
     {
         "name": "HeroChallenge",
@@ -492,7 +502,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000010
     },
     {
         "name": "ElectroWiz",
@@ -537,7 +548,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000011
     },
     {
         "name": "DraftMode",
@@ -582,7 +594,8 @@
         "clanWarDescription": "Choose 4 cards and receive 4 from your opponent!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000012
     },
     {
         "name": "Ladder",
@@ -627,7 +640,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000013
     },
     {
         "name": "Friendly",
@@ -672,7 +686,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000014
     },
     {
         "name": "Training",
@@ -717,7 +732,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000015
     },
     {
         "name": "Tournament",
@@ -762,7 +778,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000016
     },
     {
         "name": "Challenge",
@@ -807,7 +824,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000017
     },
     {
         "name": "DoubleElixir_Friendly",
@@ -852,7 +870,8 @@
         "clanWarDescription": "Elixir generates at double speed!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000018
     },
     {
         "name": "BattleRam",
@@ -897,7 +916,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000019
     },
     {
         "name": "DraftModeInsane",
@@ -942,7 +962,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000020
     },
     {
         "name": "TeamVsTeam",
@@ -987,7 +1008,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000021
     },
     {
         "name": "RetroRoyale",
@@ -1032,7 +1054,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000022
     },
     {
         "name": "CardRelease",
@@ -1077,7 +1100,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000023
     },
     {
         "name": "CardReleaseDraft",
@@ -1122,7 +1146,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000024
     },
     {
         "name": "PvE",
@@ -1167,7 +1192,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000025
     },
     {
         "name": "TvE",
@@ -1212,7 +1238,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000026
     },
     {
         "name": "PvE_Boss",
@@ -1257,7 +1284,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000027
     },
     {
         "name": "PvE_Tutorial",
@@ -1302,7 +1330,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000028
     },
     {
         "name": "TeamVsTeamDraft",
@@ -1347,7 +1376,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000029
     },
     {
         "name": "TeamVsTeamLadder",
@@ -1392,7 +1422,8 @@
         "clanWarDescription": "Play with a Clanmate!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000030
     },
     {
         "name": "Overtime_Tournament",
@@ -1437,7 +1468,8 @@
         "clanWarDescription": "The first player to take a tower... WINS!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000031
     },
     {
         "name": "GoldRush_Tournament",
@@ -1482,7 +1514,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000032
     },
     {
         "name": "TeamVsTeamChallenge",
@@ -1527,7 +1560,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000033
     },
     {
         "name": "TripleElixir_Tournament",
@@ -1572,7 +1606,8 @@
         "clanWarDescription": "Elixir generates at triple speed!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000034
     },
     {
         "name": "RampUpElixir_Tournament",
@@ -1617,7 +1652,8 @@
         "clanWarDescription": "Elixir generates faster and faster throughout the battle!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000035
     },
     {
         "name": "TeamVsTeamCrowns",
@@ -1662,7 +1698,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000036
     },
     {
         "name": "TeamVsTeamDraftChallenge",
@@ -1707,7 +1744,8 @@
         "clanWarDescription": "Choose 4 cards and receive 4 from your opponent!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000037
     },
     {
         "name": "Overtime_Friendly",
@@ -1752,7 +1790,8 @@
         "clanWarDescription": "The first player to take a tower... WINS!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000038
     },
     {
         "name": "TripleElixir_Friendly",
@@ -1797,7 +1836,8 @@
         "clanWarDescription": "Elixir generates at triple speed!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000039
     },
     {
         "name": "RampUpElixir_Friendly",
@@ -1842,7 +1882,8 @@
         "clanWarDescription": "Elixir generates faster and faster throughout the battle!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000040
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Friendly",
@@ -1887,7 +1928,8 @@
         "clanWarDescription": "Elixir generates at double speed!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000041
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Tournament",
@@ -1932,7 +1974,8 @@
         "clanWarDescription": "Elixir generates at double speed!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000042
     },
     {
         "name": "TeamVsTeam_Overtime_Friendly",
@@ -1977,7 +2020,8 @@
         "clanWarDescription": "The first player to take a tower... WINS!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000043
     },
     {
         "name": "TeamVsTeam_Overtime_Tournament",
@@ -2022,7 +2066,8 @@
         "clanWarDescription": "The first player to take a tower... WINS!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000044
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Friendly",
@@ -2067,7 +2112,8 @@
         "clanWarDescription": "Elixir generates faster and faster throughout the battle!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000045
     },
     {
         "name": "TeamVsTeam_RampUpElixir_Tournament",
@@ -2112,7 +2158,8 @@
         "clanWarDescription": "Elixir generates faster and faster throughout the battle!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000046
     },
     {
         "name": "TeamVsTeam_DraftModeInsane_Friendly",
@@ -2157,7 +2204,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000047
     },
     {
         "name": "Invalid",
@@ -2202,7 +2250,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000048
     },
     {
         "name": "PickMode",
@@ -2247,7 +2296,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000049
     },
     {
         "name": "TeamVsTeamLadder_GoldRush",
@@ -2292,7 +2342,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000050
     },
     {
         "name": "Ladder_GoldRush",
@@ -2337,7 +2388,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000051
     },
     {
         "name": "Touchdown",
@@ -2382,7 +2434,8 @@
         "clanWarDescription": "Get a troop into your opponent's end zone to score!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000052
     },
     {
         "name": "TeamVsTeamLadder_GemRush",
@@ -2427,7 +2480,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000053
     },
     {
         "name": "Ladder_GemRush",
@@ -2472,7 +2526,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000054
     },
     {
         "name": "GemRush_Tournament",
@@ -2517,7 +2572,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000055
     },
     {
         "name": "TeamVsTeam_Touchdown",
@@ -2562,7 +2618,8 @@
         "clanWarDescription": "Get a troop into your opponent's end zone to score!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000056
     },
     {
         "name": "Touchdown_Draft",
@@ -2607,7 +2664,8 @@
         "clanWarDescription": "Get a troop into your opponent's end zone to score!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000057
     },
     {
         "name": "TeamVsTeam_Touchdown_Draft",
@@ -2652,7 +2710,8 @@
         "clanWarDescription": "Get a troop into your opponent's end zone to score!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000058
     },
     {
         "name": "MirrorDeck",
@@ -2697,7 +2756,8 @@
         "clanWarDescription": "You have the exact same deck and starting cards as your opponent!",
         "battleStartCooldown": 6000,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000059
     },
     {
         "name": "TeamVsTeam_MirrorDeck",
@@ -2742,7 +2802,8 @@
         "clanWarDescription": "You have the exact same deck and starting cards as your opponent!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000060
     },
     {
         "name": "Friendly_FixedDeckOrder",
@@ -2787,7 +2848,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000061
     },
     {
         "name": "TeamVsTeam_FixedDeckOrder",
@@ -2832,7 +2894,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000062
     },
     {
         "name": "MirrorDeck_H",
@@ -2877,7 +2940,8 @@
         "clanWarDescription": "You have the exact same deck and starting cards as your opponent!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000063
     },
     {
         "name": "TeamVsTeam_MirrorDeck_H",
@@ -2922,7 +2986,8 @@
         "clanWarDescription": "You have the exact same deck and starting cards as your opponent!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000064
     },
     {
         "name": "KingOfTheHill",
@@ -2967,7 +3032,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000065
     },
     {
         "name": "ModernRoyale",
@@ -3012,7 +3078,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000066
     },
     {
         "name": "Overtime_Ladder",
@@ -3057,7 +3124,8 @@
         "clanWarDescription": "The first player to take a tower... WINS!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000067
     },
     {
         "name": "DoubleElixir_Ladder",
@@ -3102,7 +3170,8 @@
         "clanWarDescription": "Elixir generates at double speed!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000068
     },
     {
         "name": "TripleElixir_Ladder",
@@ -3147,7 +3216,8 @@
         "clanWarDescription": "Elixir generates at triple speed!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000069
     },
     {
         "name": "NOTINUSE1",
@@ -3192,7 +3262,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000070
     },
     {
         "name": "NOTINUSE2",
@@ -3237,7 +3308,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000071
     },
     {
         "name": "Showdown_Friendly",
@@ -3282,7 +3354,8 @@
         "clanWarDescription": "Build a War Deck using the Clan Cards and enter the Arena. You get one Final Battle to score a win for your Clan - no pressure!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000072
     },
     {
         "name": "Showdown_Ladder",
@@ -3327,7 +3400,8 @@
         "clanWarDescription": "Build a War Deck using the Clan Cards and enter the Arena. You get one Final Battle to score a win for your Clan - no pressure!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000073
     },
     {
         "name": "TeamVsTeam_DoubleElixir_Ladder",
@@ -3372,7 +3446,8 @@
         "clanWarDescription": "Elixir generates at double speed!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000074
     },
     {
         "name": "TeamVsTeam_Overtime_Ladder",
@@ -3417,7 +3492,8 @@
         "clanWarDescription": "The first player to take a tower... WINS!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000075
     },
     {
         "name": "CaptureTower_Friendly",
@@ -3462,7 +3538,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000076
     },
     {
         "name": "RampUpElixir_Ladder",
@@ -3507,7 +3584,8 @@
         "clanWarDescription": "Elixir generates faster and faster throughout the battle!",
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000077
     },
     {
         "name": "Rage_Friendly",
@@ -3552,7 +3630,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": "RageModeRage",
-        "loopingEffect": "Rage_mode"
+        "loopingEffect": "Rage_mode",
+        "id": 72000078
     },
     {
         "name": "MirrorDeck_CW",
@@ -3597,7 +3676,8 @@
         "clanWarDescription": "You have the exact same deck and starting cards as your opponent!",
         "battleStartCooldown": 6000,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000079
     },
     {
         "name": "Rage_Ladder",
@@ -3642,7 +3722,8 @@
         "clanWarDescription": "Someone spilt Rage all over the Arena... Everything moves and attacks faster!",
         "battleStartCooldown": null,
         "globalBuff": "RageModeRage",
-        "loopingEffect": "Rage_mode"
+        "loopingEffect": "Rage_mode",
+        "id": 72000080
     },
     {
         "name": "LavaFloor_Friendly",
@@ -3687,7 +3768,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": "PoisonModePoison",
-        "loopingEffect": "LavaFloor_mode"
+        "loopingEffect": "LavaFloor_mode",
+        "id": 72000081
     },
     {
         "name": "Event_NewArena1",
@@ -3732,7 +3814,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000082
     },
     {
         "name": "Event_NewArena2",
@@ -3777,7 +3860,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000083
     },
     {
         "name": "Event_NewArena3",
@@ -3822,7 +3906,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000084
     },
     {
         "name": "Event_NewArena4",
@@ -3867,7 +3952,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000085
     },
     {
         "name": "Event_NewArena5",
@@ -3912,7 +3998,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000086
     },
     {
         "name": "Event_NewArena6",
@@ -3957,7 +4044,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000087
     },
     {
         "name": "Event_NewArena7",
@@ -4002,7 +4090,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000088
     },
     {
         "name": "Event_NewArena8",
@@ -4047,7 +4136,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000089
     },
     {
         "name": "Event_NewArena9",
@@ -4092,7 +4182,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000090
     },
     {
         "name": "Event_NewArena10",
@@ -4137,7 +4228,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000091
     },
     {
         "name": "Event_NewArena11",
@@ -4182,7 +4274,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000092
     },
     {
         "name": "Rage_Tournament",
@@ -4227,7 +4320,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": "RageModeRage",
-        "loopingEffect": "Rage_mode"
+        "loopingEffect": "Rage_mode",
+        "id": 72000093
     },
     {
         "name": "ClassicDecks_Friendly",
@@ -4272,7 +4366,8 @@
         "clanWarDescription": "Play with a premade Classic Deck!",
         "battleStartCooldown": 6000,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000094
     },
     {
         "name": null,
@@ -4317,7 +4412,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000095
     },
     {
         "name": null,
@@ -4362,7 +4458,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000096
     },
     {
         "name": null,
@@ -4407,7 +4504,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000097
     },
     {
         "name": null,
@@ -4452,7 +4550,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000098
     },
     {
         "name": null,
@@ -4497,7 +4596,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000099
     },
     {
         "name": null,
@@ -4542,7 +4642,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000100
     },
     {
         "name": null,
@@ -4587,7 +4688,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000101
     },
     {
         "name": null,
@@ -4632,7 +4734,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000102
     },
     {
         "name": null,
@@ -4677,7 +4780,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000103
     },
     {
         "name": null,
@@ -4722,7 +4826,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000104
     },
     {
         "name": null,
@@ -4767,7 +4872,8 @@
         "clanWarDescription": null,
         "battleStartCooldown": null,
         "globalBuff": null,
-        "loopingEffect": null
+        "loopingEffect": null,
+        "id": 72000105
     },
     {
         "name": "TeamVsTeam_Rage_Ladder",
@@ -4812,6 +4918,7 @@
         "clanWarDescription": "Someone spilt Rage all over the Arena... Everything moves and attacks faster!",
         "battleStartCooldown": null,
         "globalBuff": "RageModeRage",
-        "loopingEffect": "Rage_mode"
+        "loopingEffect": "Rage_mode",
+        "id": 72000106
     }
 ]

@@ -31,7 +31,7 @@ if __name__ == '__main__':
     csv_files = glob.iglob('csv/csv_*/**/*.csv', recursive=True)
 
     for fp in csv_files:
-        fn = os.path.split(fp)[1]
+        fn = os.path.split(fp)[1].replace('.csv', '')
 
         with open(fp, encoding='utf-8') as f:
             reader = csv.DictReader(f)

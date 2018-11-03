@@ -32,7 +32,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_TrainingCamp",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000000
     },
     {
         "name": "Arena1",
@@ -67,7 +68,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena1",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000001
     },
     {
         "name": "Arena2",
@@ -102,7 +104,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena2",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000002
     },
     {
         "name": "Arena3",
@@ -137,7 +140,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena3",
         "forceQuestChestCycle": "Quest_arena3_super",
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000003
     },
     {
         "name": "Arena4",
@@ -172,7 +176,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena4",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000004
     },
     {
         "name": "Arena5",
@@ -207,7 +212,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena5",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000005
     },
     {
         "name": "Arena6",
@@ -242,7 +248,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena6",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000006
     },
     {
         "name": "Arena_L",
@@ -277,7 +284,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_L",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000007
     },
     {
         "name": "Arena7",
@@ -312,7 +320,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena7",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000008
     },
     {
         "name": "Arena8",
@@ -347,7 +356,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena8",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000009
     },
     {
         "name": "Arena9",
@@ -382,7 +392,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena9",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000010
     },
     {
         "name": "Arena_T",
@@ -417,7 +428,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000011
     },
     {
         "name": "Arena_L1",
@@ -452,7 +464,8 @@
         "seasonRewardChest": "SeasonReward_L1",
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": "TRUE"
+        "disableIn2v2": "TRUE",
+        "id": 54000012
     },
     {
         "name": "Arena_L2",
@@ -487,7 +500,8 @@
         "seasonRewardChest": "SeasonReward_L2",
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": "TRUE"
+        "disableIn2v2": "TRUE",
+        "id": 54000013
     },
     {
         "name": "Arena_L3",
@@ -522,7 +536,8 @@
         "seasonRewardChest": "SeasonReward_L3",
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": "TRUE"
+        "disableIn2v2": "TRUE",
+        "id": 54000014
     },
     {
         "name": "Arena_L4",
@@ -557,7 +572,8 @@
         "seasonRewardChest": "SeasonReward_L4",
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": "TRUE"
+        "disableIn2v2": "TRUE",
+        "id": 54000015
     },
     {
         "name": "Arena_L5",
@@ -592,7 +608,8 @@
         "seasonRewardChest": "SeasonReward_L5",
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": "TRUE"
+        "disableIn2v2": "TRUE",
+        "id": 54000016
     },
     {
         "name": "Arena_L6",
@@ -627,7 +644,8 @@
         "seasonRewardChest": "SeasonReward_L6",
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": "TRUE"
+        "disableIn2v2": "TRUE",
+        "id": 54000017
     },
     {
         "name": "Arena_L7",
@@ -662,7 +680,8 @@
         "seasonRewardChest": "SeasonReward_L7",
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": "TRUE"
+        "disableIn2v2": "TRUE",
+        "id": 54000018
     },
     {
         "name": "Arena_L8",
@@ -697,7 +716,8 @@
         "seasonRewardChest": "SeasonReward_L8",
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": "TRUE"
+        "disableIn2v2": "TRUE",
+        "id": 54000019
     },
     {
         "name": "Arena_L9",
@@ -732,7 +752,8 @@
         "seasonRewardChest": "SeasonReward_L9",
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": "TRUE"
+        "disableIn2v2": "TRUE",
+        "id": 54000020
     },
     {
         "name": "ArenaPvE",
@@ -767,7 +788,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000021
     },
     {
         "name": "ArenaTvE",
@@ -802,7 +824,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000022
     },
     {
         "name": "Arena_TouchdownTest",
@@ -837,7 +860,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000023
     },
     {
         "name": "Arena_Electric",
@@ -872,7 +896,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_Electric",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000024
     },
     {
         "name": "Arena_KingOfTheHillTest",
@@ -907,7 +932,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000025
     },
     {
         "name": "Arena_KingOfTheHillTest2",
@@ -942,7 +968,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_T",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000026
     },
     {
         "name": "ArenaClanWars1",
@@ -977,7 +1004,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_L",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000027
     },
     {
         "name": "ArenaClanWars2",
@@ -1012,7 +1040,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_L",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000028
     },
     {
         "name": "ArenaClanWars3",
@@ -1047,7 +1076,8 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_L",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000029
     },
     {
         "name": "ArenaClanWars4",
@@ -1082,6 +1112,7 @@
         "seasonRewardChest": null,
         "questCycle": "Quests_Arena_L",
         "forceQuestChestCycle": null,
-        "disableIn2v2": null
+        "disableIn2v2": null,
+        "id": 54000030
     }
 ]
