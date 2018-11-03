@@ -85,7 +85,8 @@ if __name__ == '__main__':
                         rp_data[latest_grp].append(i['data'])
                 data = {i: rp_data[i] for i in sorted(rp_data.keys())}
 
-            with open('json/' + fn.replace('.csv', '.json'), 'w+') as f:
+            save_fp = os.path.join('json', os.path.sep.join(os.path.normpath(fp).split(os.path.sep)[2:]).replace(os.path.sep, '.').replace('.csv', '.json'))
+            with open(save_fp, 'w+') as f:
                 json.dump(data, f, indent=4)
 
         print(fp)
