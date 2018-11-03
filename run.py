@@ -3,22 +3,24 @@
 Generate data JSON from APK CSV source.
 """
 
-import os
 import csv
+import glob
 import json
+import os
 
 import yaml
 
 if __name__ == '__main__':
-    with open('csv/texts.csv', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
+    TID = {}
+    for i in os.listdir('csv/texts'):
+        with open(f'csv/texts/{i}', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
 
-        title = reader.fieldnames
-        TID = {}
-        for n, row in enumerate(reader):
-            if n == 0:
-                continue
-            TID[row['TID']] = row['EN']
+            title = reader.fieldnames
+            for n, row in enumerate(reader):
+                if n == 0:
+                    continue
+                TID[row['v']] = row['EN']
 
     try:
         with open('config.yml', encoding='utf-8') as f:
@@ -26,10 +28,11 @@ if __name__ == '__main__':
     except FileNotFoundError:
         config = {'id': []}
 
-    csv_files = [('csv/csv_client/' + i, i) for i in os.listdir('csv/csv_client') if i.endswith('.csv')] + \
-                [('csv/csv_logic/' + i, i) for i in os.listdir('csv/csv_logic') if i.endswith('.csv')]
+    csv_files = glob.iglob('csv/csv_*/**/*.csv', recursive=True)
 
-    for fp, fn in csv_files:
+    for fp in csv_files:
+        fn = os.path.split(fp)[1]
+
         with open(fp, encoding='utf-8') as f:
             reader = csv.DictReader(f)
 
@@ -88,15 +91,17 @@ if __name__ == '__main__':
         print(fp)
 
     # texts.csv
-    with open('csv/texts.csv') as fp:
-        reader = csv.DictReader(fp)
-        data = {}
-        for n, row in enumerate(reader):
-            if n == 0:
-                continue
-            data[row['TID'].replace('TID_', '')] = row['EN']
+    data = {}
+    for i in os.listdir('csv/texts'):
+        file_path = f'csv/texts/{i}'
+        with open(file_path, encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for n, row in enumerate(reader):
+                if n == 0:
+                    continue
+                data[row['v'].replace('TID_', '')] = row['EN']
 
-        print('csv/texts.csv')
+        print(file_path)
 
-        with open('json/texts.json', 'w+') as f:
-            json.dump(data, f, indent=4)
+    with open('json/texts.json', 'w+') as f:
+        json.dump(data, f, indent=4)

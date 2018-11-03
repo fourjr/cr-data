@@ -1,0 +1,158 @@
+[
+    {
+        "name": "GoldChest",
+        "chest": "Gold",
+        "questThreshold": 50,
+        "shopChest": null
+    },
+    {
+        "name": "GiantChest",
+        "chest": "Giant",
+        "questThreshold": 300,
+        "shopChest": null
+    },
+    {
+        "name": "EpicChest",
+        "chest": "Epic",
+        "questThreshold": 350,
+        "shopChest": null
+    },
+    {
+        "name": "MagicalChest",
+        "chest": "Magic",
+        "questThreshold": 300,
+        "shopChest": null
+    },
+    {
+        "name": "SuperMagicalChest",
+        "chest": "Super",
+        "questThreshold": 500,
+        "shopChest": null
+    },
+    {
+        "name": "LegendaryChest",
+        "chest": "Legendary",
+        "questThreshold": 400,
+        "shopChest": null
+    },
+    {
+        "name": "LightningChest",
+        "chest": "Shop_Small_1_Arena1",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LegendaryKingsChest",
+        "chest": "Shop_Large_Legendary_Arena7",
+        "questThreshold": 500,
+        "shopChest": "Shop_Large_Legendary"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena1",
+        "chest": "Shop_Small_1_Arena1",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena2",
+        "chest": "Shop_Small_1_Arena2",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena3",
+        "chest": "Shop_Small_1_Arena3",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena4",
+        "chest": "Shop_Small_1_Arena4",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena5",
+        "chest": "Shop_Small_1_Arena5",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena6",
+        "chest": "Shop_Small_1_Arena6",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena7",
+        "chest": "Shop_Small_1_Arena7",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena8",
+        "chest": "Shop_Small_1_Arena8",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena9",
+        "chest": "Shop_Small_1_Arena9",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena_L",
+        "chest": "Shop_Small_1_Arena_L",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena_Electric",
+        "chest": "Shop_Small_1_Arena_Electric",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LightningChest_TEMP_Arena_T",
+        "chest": "Shop_Small_1_Arena_T",
+        "questThreshold": 250,
+        "shopChest": "Shop_Small_1"
+    },
+    {
+        "name": "LegendaryKingsChest_TEMP_Arena7",
+        "chest": "Shop_Large_Legendary_Arena7",
+        "questThreshold": 500,
+        "shopChest": "Shop_Large_Legendary"
+    },
+    {
+        "name": "LegendaryKingsChest_TEMP_Arena8",
+        "chest": "Shop_Large_Legendary_Arena8",
+        "questThreshold": 500,
+        "shopChest": "Shop_Large_Legendary"
+    },
+    {
+        "name": "LegendaryKingsChest_TEMP_Arena9",
+        "chest": "Shop_Large_Legendary_Arena9",
+        "questThreshold": 500,
+        "shopChest": "Shop_Large_Legendary"
+    },
+    {
+        "name": "LegendaryKingsChest_TEMP_Arena_L",
+        "chest": "Shop_Large_Legendary_Arena_L",
+        "questThreshold": 500,
+        "shopChest": "Shop_Large_Legendary"
+    },
+    {
+        "name": "LegendaryKingsChest_TEMP_Arena_Electric",
+        "chest": "Shop_Large_Legendary_Arena_Electric",
+        "questThreshold": 500,
+        "shopChest": "Shop_Large_Legendary"
+    },
+    {
+        "name": "LegendaryKingsChest_TEMP_Arena_T",
+        "chest": "Shop_Large_Legendary_Arena_T",
+        "questThreshold": 500,
+        "shopChest": "Shop_Large_Legendary"
+    }
+]

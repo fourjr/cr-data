@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Gold1",
+        "tID": "Pouch of Gold",
+        "resource": "Gold",
+        "amount": 1000,
+        "iconFile": "shop_gold01"
+    },
+    {
+        "name": "Gold2",
+        "tID": "Bucket of Gold",
+        "resource": "Gold",
+        "amount": 10000,
+        "iconFile": "shop_gold02"
+    },
+    {
+        "name": "Gold3",
+        "tID": "Wagon of Gold",
+        "resource": "Gold",
+        "amount": 100000,
+        "iconFile": "shop_gold03"
+    }
+]

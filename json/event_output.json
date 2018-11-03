@@ -1,0 +1,140 @@
+[
+    {
+        "name": "MIDI_PORT",
+        "id": 0,
+        "channels": null,
+        "durationMillis": null
+    },
+    {
+        "name": "OvertimeStart",
+        "id": 0,
+        "channels": 0,
+        "durationMillis": 500
+    },
+    {
+        "name": "CountdownStart",
+        "id": 1,
+        "channels": 0,
+        "durationMillis": 500
+    },
+    {
+        "name": "60s_Left",
+        "id": 2,
+        "channels": 0,
+        "durationMillis": 500
+    },
+    {
+        "name": "60s_LeftOvertime",
+        "id": 3,
+        "channels": 0,
+        "durationMillis": 500
+    },
+    {
+        "name": "30s_Left",
+        "id": 4,
+        "channels": 0,
+        "durationMillis": 500
+    },
+    {
+        "name": "Draw",
+        "id": 5,
+        "channels": 0,
+        "durationMillis": 500
+    },
+    {
+        "name": "BlueLeftTowerDown",
+        "id": 0,
+        "channels": 1,
+        "durationMillis": 500
+    },
+    {
+        "name": "BlueRightTowerDown",
+        "id": 1,
+        "channels": 1,
+        "durationMillis": 500
+    },
+    {
+        "name": "BlueKingDown",
+        "id": 2,
+        "channels": 1,
+        "durationMillis": 500
+    },
+    {
+        "name": "BlueWin",
+        "id": 3,
+        "channels": 1,
+        "durationMillis": 500
+    },
+    {
+        "name": "BlueFireball",
+        "id": 4,
+        "channels": 1,
+        "durationMillis": 500
+    },
+    {
+        "name": "BlueLightning",
+        "id": 5,
+        "channels": 1,
+        "durationMillis": 500
+    },
+    {
+        "name": "BlueRocket",
+        "id": 6,
+        "channels": 1,
+        "durationMillis": 500
+    },
+    {
+        "name": "BlueXbow",
+        "id": 7,
+        "channels": 1,
+        "durationMillis": 500
+    },
+    {
+        "name": "RedLeftTowerDown",
+        "id": 0,
+        "channels": 2,
+        "durationMillis": 500
+    },
+    {
+        "name": "RedRightTowerDown",
+        "id": 1,
+        "channels": 2,
+        "durationMillis": 500
+    },
+    {
+        "name": "RedKingDown",
+        "id": 2,
+        "channels": 2,
+        "durationMillis": 500
+    },
+    {
+        "name": "RedWin",
+        "id": 3,
+        "channels": 2,
+        "durationMillis": 500
+    },
+    {
+        "name": "RedFireball",
+        "id": 4,
+        "channels": 2,
+        "durationMillis": 500
+    },
+    {
+        "name": "RedLightning",
+        "id": 5,
+        "channels": 2,
+        "durationMillis": 500
+    },
+    {
+        "name": "RedRocket",
+        "id": 6,
+        "channels": 2,
+        "durationMillis": 500
+    },
+    {
+        "name": "RedXbow",
+        "id": 7,
+        "channels": 2,
+        "durationMillis": 500
+    }
+]

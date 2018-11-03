@@ -1,0 +1,58 @@
+[
+    {
+        "name": "CHALLENGE",
+        "objectType": "ChallengeDefinitionType"
+    },
+    {
+        "name": "FRIENDLY",
+        "objectType": "FriendlyChallengeDefinitionType"
+    },
+    {
+        "name": "SHOP",
+        "objectType": "ShopDefinitionType"
+    },
+    {
+        "name": "LADDER",
+        "objectType": "LadderDefinitionType"
+    },
+    {
+        "name": "QUEST",
+        "objectType": "Quest"
+    },
+    {
+        "name": "NOTIFICATION",
+        "objectType": "NotificationDefinitionType"
+    },
+    {
+        "name": "BOOSTS",
+        "objectType": "BoostType"
+    },
+    {
+        "name": "SHOP_CYCLE",
+        "objectType": "ShopCycleItemAll"
+    },
+    {
+        "name": "CHALLENGE_CHAIN",
+        "objectType": "ChallengeChainType"
+    },
+    {
+        "name": "CHALLENGE_PAGE",
+        "objectType": "ChallengePageTitle"
+    },
+    {
+        "name": "ARENA_PACK",
+        "objectType": "ArenaPackType"
+    },
+    {
+        "name": "NEWS",
+        "objectType": "NewsDefinition"
+    },
+    {
+        "name": "FILE_PRELOAD",
+        "objectType": "FileDefinition"
+    },
+    {
+        "name": "FORTUNE_TARGET",
+        "objectType": "FortuneTargetDefinition"
+    }
+]

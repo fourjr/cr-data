@@ -1,0 +1,2648 @@
+[
+    {
+        "name": "ChallengeDefinitionType",
+        "propertyName": "Casual",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "GameMode",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "GameModes_Challenge",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Title",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "FreePass",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "JoinCost",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "JoinCostResource",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "ResourceEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "MaxLosses",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Rewards",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "RewardType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardTheme",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "IconExportName",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "IconExportNameEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "WinIconExportName",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "WinIconExportNameEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Arena",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "ArenaEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Subtitle",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Subtitle_Short",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Description",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "StartNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EndNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftDeck",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "DraftDecks",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftDeckAlt",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "DraftDecks",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Background",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Background_Complete",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "UnlockedForXP",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ChallengeXPLevel",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Casual_CrownsInsteadOfWins",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "IsChainedEvent",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "IsDailyRefresh",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "LocationOverride",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "LocationOverrideEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftDeckCardThemeSetOverride",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "DraftSets",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardTheme2",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardTheme2SetOverride",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "DraftSets",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "FriendlyChallengeDefinitionType",
+        "propertyName": "Title",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Subtitle",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "GameMode",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "GameModes_Friendly",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "StartNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EndNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "FixedArena",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "ArenaEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Background",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftDeck",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "DraftDecks",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftDeckAlt",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "DraftDecks",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftCardTheme",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftDeckCardThemeSetOverride",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "DraftSets",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "HideTimer",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_AccountType",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "AccountTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftSpell1",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftSpell2",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftSpell3",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftSpell4",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftSpell5",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardTheme2",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardTheme2SetOverride",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "DraftSets",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopDefinitionType",
+        "propertyName": "Title",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Subtitle",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ShopOffers",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "ShopOfferType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_ModuloX",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_ModuloY",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_Account",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MinTrophies",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MaxTrophies",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_DaysToShow",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MinBought",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MaxBought",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MinXPLevel",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_CalculateOnce",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "StartNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EndNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "IsSpecial",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "HideTimer",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "RewardType",
+        "propertyName": "Gold",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Cards",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Milestone",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "MilestoneType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopOfferType",
+        "propertyName": "Title",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Template",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ShopTemplates",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Repeatable",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CostType",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "CostTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Cost",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CostIAP",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "BillingPackages",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Image",
+        "propertyType": "OBJECT",
+        "isRequired": "TRUE",
+        "objectType": "ImageType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "PurchasedImage",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "ImageType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Multiplier",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "RewardsV2",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "OfferRewardTypeV2",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "NumTimesPurchasable",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "OfferRewardTypeV2",
+        "propertyName": "Type",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "OfferRewardEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Chest",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "OfferRewardType_Chest",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ChestWithCardTheme",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "OfferRewardType_ChestWithCardTheme",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Gold",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "OfferRewardType_Gold",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Gems",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "OfferRewardType_Gems",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Spell",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "OfferRewardType_Spell",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EmotePack",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "OfferRewardType_EmotePack",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "TradeToken",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "OfferRewardType_Token",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "OfferRewardType_Chest",
+        "propertyName": "Chest",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "ChestEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Amount",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": 1,
+        "defaultString": null
+    },
+    {
+        "name": "OfferRewardType_ChestWithCardTheme",
+        "propertyName": "ChestName",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Spell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "TotalCards",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "RareChance",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EpicChance",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "LegendaryOneInX",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Amount",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": 1,
+        "defaultString": null
+    },
+    {
+        "name": "OfferRewardType_Gold",
+        "propertyName": "Gold",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "OfferRewardType_Gems",
+        "propertyName": "Gems",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "OfferRewardType_Spell",
+        "propertyName": "Spell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "OfferRewardType_EmotePack",
+        "propertyName": "EmotePackId",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "RandomEmotePack",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "OfferRewardType_Token",
+        "propertyName": "TradeToken",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "RarityEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Amount",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "UrlWithChecksumType",
+        "propertyName": "Url",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Checksum",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "LocalizedStringType",
+        "propertyName": "LanguageCode",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Text",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ImageType",
+        "propertyName": "File",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Path",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Checksum",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopCycleManagementConfiguration",
+        "propertyName": "EpicChestCycleDuration",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": 14,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "LegendaryChestCycleDuration",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": 21,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ArenaPackCycleDuration",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": 10,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EpicChestCycleClientEnabled",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "LegendaryChestCycleClientEnabled",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ArenaPackRepeatCycleClientEnabled",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "SellOnlyTraditionalShopChests",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "MilestoneType",
+        "propertyName": "Type",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "MilestoneTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Chest",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "ChestEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Spell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Amount",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "RandomSpell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "RarityEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Token",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "RarityEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "IsHighlighted",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "KillSwitch",
+        "propertyName": "HideShopOffersUI",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DisableLootBoxesInCountries",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "STRING",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "TutorialTestGroups",
+        "propertyName": "Forced",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": 1,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "BattleCountToShowLogPopover",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": 1,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "MaxExpLevelToShowLogPopover",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": 3,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "BattleCountToShowTVPopover",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": 6,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "MaxExpLevelToShowTVPopover",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": 3,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "MaxExpLevelToShowTrainingTip",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": 3,
+        "defaultString": null
+    },
+    {
+        "name": "FileType",
+        "propertyName": "File",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Path",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Checksum",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestSpellsType",
+        "propertyName": "Spell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestGameType",
+        "propertyName": "GameType",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestGameTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestPlayerType",
+        "propertyName": "PlayerType",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestPlayerTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestPvEType",
+        "propertyName": "Level",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestDailyType",
+        "propertyName": "TimerHours",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "NUMBER",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestBattleType",
+        "propertyName": "Type",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestBattleCounterTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "GameType",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "QuestGameType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "PlayerType",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "QuestPlayerType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Events",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "NUMBER",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Spell",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "QuestSpellsType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestAttackType",
+        "propertyName": "Type",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestAttackTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Spell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Character",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "TargetCharacter",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "GameType",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "QuestGameType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "PlayerType",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "QuestPlayerType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Events",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "NUMBER",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestCastType",
+        "propertyName": "MinElixir",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "MaxElixir",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Spell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Rarity",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "RarityEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Type",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestCastCardTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "GameType",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "QuestGameType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "PlayerType",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "QuestPlayerType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Events",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "NUMBER",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestCollectType",
+        "propertyName": "DataType",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestCollectTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Resource",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestCollectResourceEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Rarity",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "RarityEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "BaseChest",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "BaseChestEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestDonateType",
+        "propertyName": "Rarity",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestDonateRarityEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Type",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestDonateTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "QuestRewardType",
+        "propertyName": "Type",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestRewardTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Count",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "Quest",
+        "propertyName": "Title",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Info",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Count",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ItemExportName",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": "quest_item_special_pvp"
+    },
+    {
+        "name": null,
+        "propertyName": "IconExportName",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": "icon_quest_type_specialevent"
+    },
+    {
+        "name": null,
+        "propertyName": "HideEndTime",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MinXPLevel",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MaxXPLevel",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Points",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ChronosQuestRewards",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "QuestRewardType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "QuestType",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "QuestTypeEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "PvE",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "QuestPvEType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Daily",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "QuestDailyType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Win",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "QuestBattleType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Attack",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "QuestAttackType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Cast",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "QuestCastType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Collect",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "QuestCollectType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Donate",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "QuestDonateType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "LadderDefinitionType",
+        "propertyName": "StartNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EndNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftDeck",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DraftCardTheme",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MinXPLevel",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "HideTimer",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "HidePopupTimer",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "GameMode",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "GameModes_Ladder",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ExtraGameMode",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "GameModesExtra_Ladder",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ExtraGameModeChance",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ExtraGameModeRewards",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LadderRewardTier",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ClanChest",
+        "propertyName": "StartTime",
+        "propertyType": "DATETIME",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ActiveDuration",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "InactiveDuration",
+        "propertyType": "STRING",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ChestType",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "STRING",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Disable",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "NotificationDefinitionType",
+        "propertyName": "StartNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EndNotification",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "StartNotificationPage",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "NotificationCategoryEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EndNotificationPage",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "NotificationCategoryEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ModuloParams",
+        "propertyName": "ModX",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ModY",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "LogicLong",
+        "propertyName": "High",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Low",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "CardReleaseData",
+        "propertyName": "Spell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Date",
+        "propertyType": "DATE",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ShowAsSoon",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "CardReleaseV2",
+        "propertyName": "Cards",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "CardReleaseData",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "CardRelease",
+        "propertyName": "Bats",
+        "propertyType": "DATE",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "MovingCannon",
+        "propertyType": "DATE",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "MegaKnight",
+        "propertyType": "DATE",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "SkeletonBalloon",
+        "propertyType": "DATE",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "DartBarrell",
+        "propertyType": "DATE",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "BoostType",
+        "propertyName": "Title",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Boosts",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "BoostItemType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MinTrophies",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MinXPLevel",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "BoostItemType",
+        "propertyName": "Type",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "BoostTypes",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Cost",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "durationInHours",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopCycleItem_SpecialChest",
+        "propertyName": "Chest",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ShopCycleChest",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopCycleItem_Spell_Specific",
+        "propertyName": "Spell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Amount",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopCycleItem_Spell_Rarity",
+        "propertyName": "Rarity",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ShopCycleSpellRarity",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Amount",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopCycleItem_Chest",
+        "propertyName": "Chest",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "BaseChestEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopCycleItem_Gems",
+        "propertyName": "Amount",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopCycleItem_Gold",
+        "propertyName": "Amount",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopCycleItem_Chest_CardTheme",
+        "propertyName": "Chest",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "BaseChestEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardTheme",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardThemeChance",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardThemeGuarentee",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardThemeInEveryChest",
+        "propertyType": "BOOLEAN",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ShopCycleItemAll",
+        "propertyName": "Slot",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ShopCycleSlot",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Cost",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CostType",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ShopCycleResourceType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Highlight",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ShopCycleHighlight",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Type",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ShopCycleItem_Types",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "SpecialChest",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "ShopCycleItem_SpecialChest",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Spell_Specific",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "ShopCycleItem_Spell_Specific",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Spell_Rarity",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "ShopCycleItem_Spell_Rarity",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Chest",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "ShopCycleItem_Chest",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Gems",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "ShopCycleItem_Gems",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Gold",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "ShopCycleItem_Gold",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Chest_CardTheme",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "ShopCycleItem_Chest_CardTheme",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ChallengeChainType",
+        "propertyName": "Title",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "EventIds",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "ChallengeChainItemType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ChallengeChainItemType",
+        "propertyName": "Id",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ChallengePageTitle",
+        "propertyName": "Image",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Title",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "TitleGlow",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Icon",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "IconExportNameEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "CardTheme",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "LadderRewardTier",
+        "propertyName": "MinArena",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ArenaEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "RewardTower1",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "RewardTower2",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "RewardTower3",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "MaxReward",
+        "propertyType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "PermanentGameModes",
+        "propertyName": "GameModes",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "GameMode",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "FixedDeckOrderOptionEnabled",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "GameMode",
+        "propertyName": "Mode",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "GameModes_Friendly",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ArenaPackType",
+        "propertyName": "ArenaPack",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "ArenaPacksEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "NewsDefinition",
+        "propertyName": "Title",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Subtitle",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "MainText",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ButtonText",
+        "propertyType": "LIST",
+        "isRequired": "FALSE",
+        "objectType": "LocalizedStringType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ButtonLink",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ShowTimer",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ShowOnEachStartup",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Background",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_Account",
+        "propertyType": "STRING",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MinTrophies",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MaxTrophies",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_CalculateOnce",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "BrowseToSpell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "FALSE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "FileDefinition",
+        "propertyName": "File",
+        "propertyType": "OBJECT",
+        "isRequired": "FALSE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "FortuneTargetDefinition",
+        "propertyName": "Spells",
+        "propertyType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "FortuneTarget_Spell",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "Target_MinTrophies",
+        "propertyType": "NUMBER",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "FortuneTarget_Spell",
+        "propertyName": "Spell",
+        "propertyType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "SpellsEnum",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "ClanWarsGlobals",
+        "propertyName": "DisableStartingNewWars",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": "EmotePack",
+        "propertyName": "ReleaseDate",
+        "propertyType": "DATETIME",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "ScFile",
+        "propertyType": "OBJECT",
+        "isRequired": "TRUE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "WavFile1",
+        "propertyType": "OBJECT",
+        "isRequired": "TRUE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "WavFile2",
+        "propertyType": "OBJECT",
+        "isRequired": "TRUE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "WavFile3",
+        "propertyType": "OBJECT",
+        "isRequired": "TRUE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "WavFile4",
+        "propertyType": "OBJECT",
+        "isRequired": "TRUE",
+        "objectType": "FileType",
+        "defaultInt": null,
+        "defaultString": null
+    },
+    {
+        "name": null,
+        "propertyName": "OwnedByDefault",
+        "propertyType": "BOOLEAN",
+        "isRequired": "FALSE",
+        "objectType": null,
+        "defaultInt": null,
+        "defaultString": null
+    }
+]

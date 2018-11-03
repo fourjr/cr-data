@@ -1,0 +1,547 @@
+[
+    {
+        "name": "Draft_old",
+        "requiredSets": "Draft_AllRandom",
+        "optionalSets": "Draft_TankUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_DamageSpell",
+        "optionalSets": "Draft_3costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir",
+        "optionalSets": "Draft_4costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir2",
+        "optionalSets": "Draft_5costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_MainAttack",
+        "optionalSets": "Draft_Aggressive"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_Buildings"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapDudes"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CoolStuff"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_Legendary"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapCards"
+    },
+    {
+        "name": "TEST_Draft_balance_test",
+        "requiredSets": "TEST_Draft_All_live_cards",
+        "optionalSets": "Draft_TankUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_DamageSpell",
+        "optionalSets": "Draft_3costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir",
+        "optionalSets": "Draft_4costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir2",
+        "optionalSets": "Draft_5costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_MainAttack",
+        "optionalSets": "Draft_Aggressive"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_Buildings"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapDudes"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CoolStuff"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_Legendary"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapCards"
+    },
+    {
+        "name": "TEST_Draft_new_cards_test",
+        "requiredSets": "TEST_Draft_New_cards",
+        "optionalSets": "Draft_TankUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_DamageSpell",
+        "optionalSets": "Draft_3costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir",
+        "optionalSets": "Draft_4costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir2",
+        "optionalSets": "Draft_5costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_MainAttack",
+        "optionalSets": "Draft_Aggressive"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_Buildings"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapDudes"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CoolStuff"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_Legendary"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapCards"
+    },
+    {
+        "name": "TEST_Draft_new_cards_daily_test",
+        "requiredSets": "TEST_Draft_New_cards_daily",
+        "optionalSets": "Draft_TankUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_DamageSpell",
+        "optionalSets": "Draft_3costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir",
+        "optionalSets": "Draft_4costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir2",
+        "optionalSets": "Draft_5costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_MainAttack",
+        "optionalSets": "Draft_Aggressive"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_Buildings"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapDudes"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CoolStuff"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_Legendary"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapCards"
+    },
+    {
+        "name": "Draft_Touchdown_v1",
+        "requiredSets": "Draft_TD_MainAttack",
+        "optionalSets": "Draft_TD_3costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_TD_DamageSpells",
+        "optionalSets": "Draft_TD_4costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_TD_AntiAir1",
+        "optionalSets": "Draft_TD_5costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_TD_AntiAir1",
+        "optionalSets": "Draft_TD_CheapDudes"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_TD_Buildings",
+        "optionalSets": "Draft_TD_Funky"
+    },
+    {
+        "name": "Draft_H_v1",
+        "requiredSets": "Draft_H_any",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_H_any",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_H_any",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_H_any",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_H_any",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_H_any",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_H_any",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_H_any",
+        "optionalSets": null
+    },
+    {
+        "name": "Draft_v1_dec_card_release",
+        "requiredSets": "Draft_DecNewCards",
+        "optionalSets": "Draft_TankUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AllRandom",
+        "optionalSets": "Draft_3costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_DamageSpell",
+        "optionalSets": "Draft_4costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir",
+        "optionalSets": "Draft_5costUnit"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_AntiAir2",
+        "optionalSets": "Draft_Aggressive"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_MainAttack",
+        "optionalSets": "Draft_Buildings"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapDudes"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CoolStuff"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_Legendary"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_CheapCards"
+    },
+    {
+        "name": "Draft_v1",
+        "requiredSets": "Draft_RH_TankUnit",
+        "optionalSets": "Draft_RH_Investment"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_RH_AntiAir",
+        "optionalSets": "Draft_RH_Punish"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_RH_Distractions",
+        "optionalSets": "Draft_RH_HitTower"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_RH_DirectDamage",
+        "optionalSets": "Draft_RH_CombatTricks"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_RH_WinCons",
+        "optionalSets": "Draft_RH_VersatileLegs"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_TankSupport"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_AntiTank"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_2ndSpell"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_Splash"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_MiniTank"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_Basic3s"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_CycleUnder3"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_CheapAntiAir"
+    },
+    {
+        "name": "Draft_SnowHogs",
+        "requiredSets": "Draft_RH_TankUnit",
+        "optionalSets": "Draft_RH_Investment"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_RH_AntiAir",
+        "optionalSets": "Draft_RH_HitTower"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_RH_CycleUnder3",
+        "optionalSets": "Draft_RH_CombatTricks"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_RH_DirectDamage",
+        "optionalSets": "Draft_RH_VersatileLegs"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_RH_Punish",
+        "optionalSets": "Draft_RH_TankSupport"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_AntiTank"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_Distractions"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_Splash"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_MiniTank"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_WinCons"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_Basic3s"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_RH_2ndSpell"
+    },
+    {
+        "name": "Draft_Level5to8",
+        "requiredSets": "Draft_58_Tank",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_58_Spell",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_58_AntiAir",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_58_Distractions",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_58_AntiTank",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_58_Buildings",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_58_WinCons",
+        "optionalSets": null
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_58_Splash",
+        "optionalSets": null
+    },
+    {
+        "name": "Draft_NewCardsTest",
+        "requiredSets": "Draft_TEST_TankUnit",
+        "optionalSets": "Draft_TEST_Investment"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_TEST_AntiAir",
+        "optionalSets": "Draft_TEST_Punish"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_TEST_Distractions",
+        "optionalSets": "Draft_TEST_HitTower"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_TEST_DirectDamage",
+        "optionalSets": "Draft_TEST_CombatTricks"
+    },
+    {
+        "name": null,
+        "requiredSets": "Draft_TEST_WinCons",
+        "optionalSets": "Draft_TEST_VersatileLegs"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_TEST_TankSupport"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_TEST_AntiTank"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_TEST_2ndSpell"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_TEST_Splash"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_TEST_MiniTank"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_TEST_Basic3s"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_TEST_CycleUnder3"
+    },
+    {
+        "name": null,
+        "requiredSets": null,
+        "optionalSets": "Draft_TEST_CheapAntiAir"
+    }
+]

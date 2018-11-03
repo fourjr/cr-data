@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Useful1",
+        "chance": 20,
+        "num_Useful": 3,
+        "num_Catchup": 1,
+        "num_Upgraded": 0,
+        "legend_Chance": 50,
+        "catchup_Pool_Size": null
+    },
+    {
+        "name": "Useful2",
+        "chance": 20,
+        "num_Useful": 2,
+        "num_Catchup": 1,
+        "num_Upgraded": 0,
+        "legend_Chance": 50,
+        "catchup_Pool_Size": null
+    },
+    {
+        "name": "Catchup2",
+        "chance": 20,
+        "num_Useful": 1,
+        "num_Catchup": 3,
+        "num_Upgraded": 0,
+        "legend_Chance": 50,
+        "catchup_Pool_Size": 4
+    },
+    {
+        "name": "Catchup4",
+        "chance": 20,
+        "num_Useful": 1,
+        "num_Catchup": 2,
+        "num_Upgraded": 0,
+        "legend_Chance": 50,
+        "catchup_Pool_Size": 3
+    },
+    {
+        "name": "Random4",
+        "chance": 10,
+        "num_Useful": 1,
+        "num_Catchup": 1,
+        "num_Upgraded": 1,
+        "legend_Chance": 50,
+        "catchup_Pool_Size": 2
+    },
+    {
+        "name": "Upgraded1",
+        "chance": 10,
+        "num_Useful": 1,
+        "num_Catchup": 0,
+        "num_Upgraded": 3,
+        "legend_Chance": 50,
+        "catchup_Pool_Size": null
+    }
+]

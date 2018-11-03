@@ -1,0 +1,10298 @@
+[
+    {
+        "name": "SetRandomRangedSupport",
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": "SetRandomDirectDamageSpell",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": "SetRandomCheapUnit",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": "SetRandomAttackCard1",
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": "SetRandomAttackCard2",
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": "SetRandom2to3Any",
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": "SetRandom3to4Unit",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": "SetRandom3to5Any",
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": "SetRandomAll",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": "SetFixedBuildingDefense",
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": "SetFixedBuildingHut",
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": "SetFixedCheapUnit",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": "SetFixedSpirit",
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": "SetFixedTankUnit",
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": "SetFixedHeavyAttack",
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": "SetFixedHeavySupport",
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": "SetFixedFlyingHeavy",
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": "SetFixedFlyingSupport",
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": "SetFixedRangedSupport",
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": "SetFixedDamageSpellLow",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": "SetFixedDamageSpellMid",
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": "SetFixedDamageSpellBig",
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": "SetFixedMidSupport",
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": "SetFixedSwarm",
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": "SetFixedCheapFlying",
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": "Draft_TankUnit",
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": "Draft_Legendary",
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": "Draft_AntiAir",
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": "Draft_DamageSpell",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": "Draft_CheapDudes",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": "Draft_Buildings",
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": "Draft_Aggressive",
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": "Draft_CoolStuff",
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": "Draft_3costUnit",
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": "Draft_4costUnit",
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": "Draft_5costUnit",
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": "Draft_AllRandom",
+        "spells": "*"
+    },
+    {
+        "name": "Draft_CheapCards",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": "Event_Retro",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": "Draft_AntiAir2",
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": "Draft_MainAttack",
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": "TEST_Draft_All_live_cards",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": "TEST_Draft_New_cards",
+        "spells": "Bats"
+    },
+    {
+        "name": "TEST_Draft_New_cards_daily",
+        "spells": "Bats"
+    },
+    {
+        "name": "Draft_TD_MainAttack",
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": "Draft_TD_DamageSpells",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": "Draft_TD_Buildings",
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": "Draft_TD_AntiAir1",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": "Draft_TD_Funky",
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": "Draft_TD_3costUnit",
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": "Draft_TD_4costUnit",
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": "Draft_TD_5costUnit",
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": "Draft_TD_CheapDudes",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": "Draft_TD_Hog",
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": "MirrorSet",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": "SetMirror_Aggro",
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": "SetMirror_Counters",
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": "SetMirror_Troops",
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": "SetMirror_NonBuilding",
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": "SetMirror_Aggro_H",
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": "SetMirror_Counters_H",
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": "SetMirror_Troops_H",
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": "SetMirror_NonBuilding_H",
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": "SetMirror_H",
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": "Draft_H_any",
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": "Draft_DecNewCards",
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": "Event_Modern",
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "RoyalRecruits"
+    },
+    {
+        "name": "TD_HogCounters",
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": "Draft_RH_TankUnit",
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "RoyalRecruits"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGiant"
+    },
+    {
+        "name": "Draft_RH_AntiAir",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": "Draft_RH_DirectDamage",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": "Draft_RH_CycleUnder3",
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": "Draft_RH_Investment",
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": "Draft_RH_Punish",
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": "Draft_RH_HitTower",
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": "Draft_RH_CombatTricks",
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": "Draft_RH_VersatileLegs",
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": "Draft_RH_TankSupport",
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": "Draft_RH_AntiTank",
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": "Draft_RH_AllRandom",
+        "spells": "*"
+    },
+    {
+        "name": "Draft_RH_Distractions",
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": "Draft_RH_Splash",
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": "Draft_RH_MiniTank",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": "Draft_RH_WinCons",
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": "Draft_RH_2ndSpell",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": "Draft_RH_Basic3s",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": "Draft_RH_CheapAntiAir",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": "Set_CW_damagespellsArena6",
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": "Set_CW_tanktowersArena7",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "RoyalRecruits"
+    },
+    {
+        "name": "Set_CW_winconsArena7",
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": "Set_CW_troopspellsArena9",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "RoyalRecruits"
+    },
+    {
+        "name": "Set_CW_antitankArena4",
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": "Set_CW_tankArena4",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": "Set_CW_antiairArena6",
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": "Set_CW_allcardsArena6",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": "Set_CW_Anti_SpicySpells",
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": "Set_CW_Anti_Buldings",
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": "Set_CW_Anti_Expensive",
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "RoyalRecruits"
+    },
+    {
+        "name": "MirrorCW_Tank",
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": "MirrorCW_TankSupport",
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": "MirrorCW_AntiTank",
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": "MirrorCW_CheapLeggy",
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": "MirrorCW_Distractions",
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": "MirrorCW_AntiAir",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": "MirrorCW_DirectDamage",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": "Event_NewUnlockA1",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": "Event_NewUnlockA2",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": "Event_NewUnlockA3",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": "Event_NewUnlockA4",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": "Event_NewUnlockA5",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": "Event_NewUnlockA6",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": "Event_NewUnlockA7",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": "Event_NewUnlockA8",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": "Event_NewUnlockA9",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": "Event_NewUnlockA10",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": "Event_NewUnlockA11",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": null,
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": "Draft_58_Tank",
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": "Draft_58_Spell",
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": "Draft_58_AntiAir",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": "Draft_58_Distractions",
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": "Draft_58_AntiTank",
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": "Draft_58_Buildings",
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": "Draft_58_WinCons",
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": "Draft_58_Splash",
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": "Draft_TEST_TankUnit",
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "RoyalRecruits"
+    },
+    {
+        "name": "Draft_TEST_AntiAir",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": "Draft_TEST_DirectDamage",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": "Draft_TEST_CycleUnder3",
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": "Draft_TEST_Investment",
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": null,
+        "spells": "Elixir Collector"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": "Draft_TEST_Punish",
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": "Draft_TEST_HitTower",
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": "Draft_TEST_CombatTricks",
+        "spells": "Clone"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    },
+    {
+        "name": null,
+        "spells": "Heal"
+    },
+    {
+        "name": null,
+        "spells": "Mirror"
+    },
+    {
+        "name": null,
+        "spells": "Rage"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": "Draft_TEST_VersatileLegs",
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": "Draft_TEST_TankSupport",
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "DarkWitch"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": "Draft_TEST_AntiTank",
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "Cannon"
+    },
+    {
+        "name": null,
+        "spells": "GiantSkeleton"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": "Draft_TEST_Distractions",
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": "Draft_TEST_Splash",
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "MegaKnight"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": "Draft_TEST_MiniTank",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": "Draft_TEST_WinCons",
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonBalloon"
+    },
+    {
+        "name": "Draft_TEST_2ndSpell",
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": "Draft_TEST_Basic3s",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Bomber"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": "Draft_TEST_CheapAntiAir",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": "BAD_MiniTank",
+        "spells": "Knight"
+    },
+    {
+        "name": null,
+        "spells": "Valkyrie"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Miner"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "Prince"
+    },
+    {
+        "name": null,
+        "spells": "DarkPrince"
+    },
+    {
+        "name": null,
+        "spells": "Assassin"
+    },
+    {
+        "name": null,
+        "spells": "Ghost"
+    },
+    {
+        "name": "BAD_WinCon",
+        "spells": "Giant"
+    },
+    {
+        "name": null,
+        "spells": "Golem"
+    },
+    {
+        "name": null,
+        "spells": "Balloon"
+    },
+    {
+        "name": null,
+        "spells": "Graveyard"
+    },
+    {
+        "name": null,
+        "spells": "HogRider"
+    },
+    {
+        "name": null,
+        "spells": "RoyalGiant"
+    },
+    {
+        "name": null,
+        "spells": "RoyalHogs"
+    },
+    {
+        "name": null,
+        "spells": "BattleRam"
+    },
+    {
+        "name": null,
+        "spells": "GoblinBarrel"
+    },
+    {
+        "name": null,
+        "spells": "LavaHound"
+    },
+    {
+        "name": null,
+        "spells": "Mortar"
+    },
+    {
+        "name": null,
+        "spells": "Xbow"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGiant"
+    },
+    {
+        "name": "BAD_AntiTank",
+        "spells": "MiniPekka"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Pekka"
+    },
+    {
+        "name": null,
+        "spells": "MovingCannon"
+    },
+    {
+        "name": null,
+        "spells": "InfernoDragon"
+    },
+    {
+        "name": null,
+        "spells": "Bowler"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": null,
+        "spells": "RageBarbarian"
+    },
+    {
+        "name": null,
+        "spells": "AngryBarbarians"
+    },
+    {
+        "name": null,
+        "spells": "ZapMachine"
+    },
+    {
+        "name": null,
+        "spells": "Tombstone"
+    },
+    {
+        "name": null,
+        "spells": "BombTower"
+    },
+    {
+        "name": null,
+        "spells": "InfernoTower"
+    },
+    {
+        "name": null,
+        "spells": "Tesla"
+    },
+    {
+        "name": null,
+        "spells": "FirespiritHut"
+    },
+    {
+        "name": null,
+        "spells": "GoblinHut"
+    },
+    {
+        "name": null,
+        "spells": "BarbarianHut"
+    },
+    {
+        "name": "BAD_AntiAir",
+        "spells": "Archer"
+    },
+    {
+        "name": null,
+        "spells": "Musketeer"
+    },
+    {
+        "name": null,
+        "spells": "BabyDragon"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "Hunter"
+    },
+    {
+        "name": null,
+        "spells": "Minions"
+    },
+    {
+        "name": null,
+        "spells": "MinionHorde"
+    },
+    {
+        "name": null,
+        "spells": "MegaMinion"
+    },
+    {
+        "name": null,
+        "spells": "Wizard"
+    },
+    {
+        "name": null,
+        "spells": "DartBarrell"
+    },
+    {
+        "name": null,
+        "spells": "ThreeMusketeers"
+    },
+    {
+        "name": null,
+        "spells": "Princess"
+    },
+    {
+        "name": null,
+        "spells": "IceWizard"
+    },
+    {
+        "name": null,
+        "spells": "BlowdartGoblin"
+    },
+    {
+        "name": null,
+        "spells": "Rascals"
+    },
+    {
+        "name": null,
+        "spells": "AxeMan"
+    },
+    {
+        "name": null,
+        "spells": "EliteArcher"
+    },
+    {
+        "name": null,
+        "spells": "MiniSparkys"
+    },
+    {
+        "name": null,
+        "spells": "ElectroWizard"
+    },
+    {
+        "name": "BAD_Distraction",
+        "spells": "Skeletons"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonArmy"
+    },
+    {
+        "name": null,
+        "spells": "SkeletonWarriors"
+    },
+    {
+        "name": null,
+        "spells": "Goblins"
+    },
+    {
+        "name": null,
+        "spells": "SpearGoblins"
+    },
+    {
+        "name": null,
+        "spells": "GoblinGang"
+    },
+    {
+        "name": null,
+        "spells": "Bats"
+    },
+    {
+        "name": null,
+        "spells": "Witch"
+    },
+    {
+        "name": null,
+        "spells": "FireSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceSpirits"
+    },
+    {
+        "name": null,
+        "spells": "IceGolemite"
+    },
+    {
+        "name": null,
+        "spells": "Barbarians"
+    },
+    {
+        "name": "BAD_SmallSpell",
+        "spells": "Zap"
+    },
+    {
+        "name": null,
+        "spells": "Log"
+    },
+    {
+        "name": null,
+        "spells": "BarbLog"
+    },
+    {
+        "name": null,
+        "spells": "Arrows"
+    },
+    {
+        "name": null,
+        "spells": "Snowball"
+    },
+    {
+        "name": null,
+        "spells": "Tornado"
+    },
+    {
+        "name": "BAD_BigSpell",
+        "spells": "Fireball"
+    },
+    {
+        "name": null,
+        "spells": "Poison"
+    },
+    {
+        "name": null,
+        "spells": "Rocket"
+    },
+    {
+        "name": null,
+        "spells": "Lightning"
+    },
+    {
+        "name": null,
+        "spells": "Freeze"
+    }
+]

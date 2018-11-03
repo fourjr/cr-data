@@ -1,0 +1,821 @@
+[
+    {
+        "name": "Cycle_Free_Gold",
+        "a": 2,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Cycle_Pay_Gold",
+        "a": 0,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Cycle_Free_Chest",
+        "a": 2,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Cycle_Pay_Chest",
+        "a": 0,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Cycle_Legendary",
+        "a": 6,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Cycle_Free_Gems",
+        "a": 1,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Cycle_Duration",
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Common_Stack_Size",
+        "a": 1,
+        "b": 5,
+        "c": 10,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 5,
+        "c": 10,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 2,
+        "b": 10,
+        "c": 20,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 2,
+        "b": 10,
+        "c": 20,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 5,
+        "b": 15,
+        "c": 30,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 5,
+        "b": 15,
+        "c": 30,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": 20,
+        "c": 40,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": 20,
+        "c": 40,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 15,
+        "b": 30,
+        "c": 50,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 15,
+        "b": 30,
+        "c": 50,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 20,
+        "b": 40,
+        "c": 60,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 20,
+        "b": 40,
+        "c": 60,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 20,
+        "b": 40,
+        "c": 60,
+        "d": null
+    },
+    {
+        "name": "Common_Cost",
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Commons_Cost_Gems_For_Ten",
+        "a": 5,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Rare_Stack_Size",
+        "a": 1,
+        "b": 1,
+        "c": 1,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 1,
+        "c": 1,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 2,
+        "b": 3,
+        "c": 4,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 2,
+        "b": 3,
+        "c": 4,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 4,
+        "b": 6,
+        "c": 8,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 4,
+        "b": 6,
+        "c": 8,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 6,
+        "b": 9,
+        "c": 12,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 6,
+        "b": 9,
+        "c": 12,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 8,
+        "b": 12,
+        "c": 16,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 8,
+        "b": 12,
+        "c": 16,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": 15,
+        "c": 20,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": 15,
+        "c": 20,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": 15,
+        "c": 20,
+        "d": null
+    },
+    {
+        "name": "Rare_Cost",
+        "a": 100,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 100,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 100,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Rare_Cost_Gems",
+        "a": 5,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Epic_Stack_Size",
+        "a": 1,
+        "b": 1,
+        "c": 1,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 1,
+        "c": 1,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 1,
+        "c": 1,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 1,
+        "c": 1,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 1,
+        "c": 2,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 1,
+        "c": 2,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 2,
+        "c": 3,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 2,
+        "c": 3,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 2,
+        "c": 4,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 2,
+        "c": 4,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 3,
+        "c": 5,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 3,
+        "c": 5,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1,
+        "b": 3,
+        "c": 5,
+        "d": null
+    },
+    {
+        "name": "Epic_Cost",
+        "a": 1000,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1000,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 1000,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Epic_Cost_Gems",
+        "a": 50,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Legendary_Cost",
+        "a": 40000,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Gold_Purchase",
+        "a": 150,
+        "b": 5,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 150,
+        "b": 5,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 150,
+        "b": 5,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 150,
+        "b": 5,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 300,
+        "b": 10,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 300,
+        "b": 10,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 300,
+        "b": 10,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 300,
+        "b": 10,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 600,
+        "b": 20,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 600,
+        "b": 20,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 600,
+        "b": 20,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 600,
+        "b": 20,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 600,
+        "b": 20,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Gold_Free",
+        "a": 20,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 20,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 20,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 40,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 60,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 80,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 100,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 120,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 140,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 160,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 180,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 200,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 200,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Free_Chest_Chance",
+        "a": 95,
+        "b": null,
+        "c": null,
+        "d": "Silver"
+    },
+    {
+        "name": null,
+        "a": 5,
+        "b": null,
+        "c": null,
+        "d": "Gold"
+    },
+    {
+        "name": "Gem_Free",
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 10,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Large_Gem_Chance_PlayerXP",
+        "a": 0,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 0,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 0,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 20,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 30,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 40,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 50,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 50,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 50,
+        "b": null,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Epic_Stack_Offset_By_Trophies",
+        "a": 0,
+        "b": 0,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 4000,
+        "b": 1,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 4900,
+        "b": 2,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": "Cycle_Num_Legendaries_In_Vanilla",
+        "a": 0,
+        "b": 0,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 4000,
+        "b": 1,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 4900,
+        "b": 1,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 5200,
+        "b": 1,
+        "c": null,
+        "d": null
+    },
+    {
+        "name": null,
+        "a": 5500,
+        "b": 1,
+        "c": null,
+        "d": null
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "name": "RED",
+        "cSVFiles": null,
+        "cSVRows": null,
+        "customNames": "ProductRed"
+    },
+    {
+        "name": "SHOP",
+        "cSVFiles": null,
+        "cSVRows": null,
+        "customNames": "RumbleShop"
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": null,
+        "customNames": "HolidayBundle"
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": null,
+        "customNames": "ChineseNewYearBundle"
+    },
+    {
+        "name": "CHALLENGE",
+        "cSVFiles": "csv_logic/survival_modes.csv",
+        "cSVRows": "Gold",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "Bronze",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "BlindDeck",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "DoubleElixir",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "KingsCup",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "DraftMode",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "DraftMode2",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "ThreeBridges",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "HeroChallenge",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "ElectroWiz",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "DraftModeInsane",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "Team",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "RetroRoyale",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "BattleRamClassic",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "BattleRamGrand",
+        "customNames": null
+    },
+    {
+        "name": "FRIENDLY",
+        "cSVFiles": "csv_logic/game_modes.csv",
+        "cSVRows": "BlindDeck",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "DoubleElixir_Friendly",
+        "customNames": null
+    },
+    {
+        "name": null,
+        "cSVFiles": null,
+        "cSVRows": "DraftMode",
+        "customNames": null
+    },
+    {
+        "name": "SHOP_OFFER_DELAY",
+        "cSVFiles": null,
+        "cSVRows": null,
+        "customNames": "ShopOfferDelay"
+    }
+]

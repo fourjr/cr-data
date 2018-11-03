@@ -1,0 +1,1046 @@
+[
+    {
+        "name": "JP",
+        "dummy": null
+    },
+    {
+        "name": "IS",
+        "dummy": null
+    },
+    {
+        "name": "IE",
+        "dummy": null
+    },
+    {
+        "name": "_AS",
+        "dummy": null
+    },
+    {
+        "name": "AZ",
+        "dummy": null
+    },
+    {
+        "name": "AC",
+        "dummy": null
+    },
+    {
+        "name": "AF",
+        "dummy": null
+    },
+    {
+        "name": "_AF",
+        "dummy": null
+    },
+    {
+        "name": "US",
+        "dummy": null
+    },
+    {
+        "name": "VI",
+        "dummy": null
+    },
+    {
+        "name": "AS",
+        "dummy": null
+    },
+    {
+        "name": "AE",
+        "dummy": null
+    },
+    {
+        "name": "DZ",
+        "dummy": null
+    },
+    {
+        "name": "AR",
+        "dummy": null
+    },
+    {
+        "name": "AW",
+        "dummy": null
+    },
+    {
+        "name": "AL",
+        "dummy": null
+    },
+    {
+        "name": "AM",
+        "dummy": null
+    },
+    {
+        "name": "AI",
+        "dummy": null
+    },
+    {
+        "name": "AO",
+        "dummy": null
+    },
+    {
+        "name": "AG",
+        "dummy": null
+    },
+    {
+        "name": "AD",
+        "dummy": null
+    },
+    {
+        "name": "YE",
+        "dummy": null
+    },
+    {
+        "name": "GB",
+        "dummy": null
+    },
+    {
+        "name": "IO",
+        "dummy": null
+    },
+    {
+        "name": "VG",
+        "dummy": null
+    },
+    {
+        "name": "IL",
+        "dummy": null
+    },
+    {
+        "name": "IT",
+        "dummy": null
+    },
+    {
+        "name": "IQ",
+        "dummy": null
+    },
+    {
+        "name": "IR",
+        "dummy": null
+    },
+    {
+        "name": "_INT",
+        "dummy": null
+    },
+    {
+        "name": "IN",
+        "dummy": null
+    },
+    {
+        "name": "ID",
+        "dummy": null
+    },
+    {
+        "name": "WF",
+        "dummy": null
+    },
+    {
+        "name": "UG",
+        "dummy": null
+    },
+    {
+        "name": "UA",
+        "dummy": null
+    },
+    {
+        "name": "UZ",
+        "dummy": null
+    },
+    {
+        "name": "UY",
+        "dummy": null
+    },
+    {
+        "name": "EC",
+        "dummy": null
+    },
+    {
+        "name": "EG",
+        "dummy": null
+    },
+    {
+        "name": "EE",
+        "dummy": null
+    },
+    {
+        "name": "ET",
+        "dummy": null
+    },
+    {
+        "name": "ER",
+        "dummy": null
+    },
+    {
+        "name": "SV",
+        "dummy": null
+    },
+    {
+        "name": "OM",
+        "dummy": null
+    },
+    {
+        "name": "NL",
+        "dummy": null
+    },
+    {
+        "name": "BQ",
+        "dummy": null
+    },
+    {
+        "name": "_AU",
+        "dummy": null
+    },
+    {
+        "name": "AU",
+        "dummy": null
+    },
+    {
+        "name": "AT",
+        "dummy": null
+    },
+    {
+        "name": "AX",
+        "dummy": null
+    },
+    {
+        "name": "GY",
+        "dummy": null
+    },
+    {
+        "name": "KZ",
+        "dummy": null
+    },
+    {
+        "name": "QA",
+        "dummy": null
+    },
+    {
+        "name": "CA",
+        "dummy": null
+    },
+    {
+        "name": "IC",
+        "dummy": null
+    },
+    {
+        "name": "GA",
+        "dummy": null
+    },
+    {
+        "name": "CM",
+        "dummy": null
+    },
+    {
+        "name": "GM",
+        "dummy": null
+    },
+    {
+        "name": "KH",
+        "dummy": null
+    },
+    {
+        "name": "GH",
+        "dummy": null
+    },
+    {
+        "name": "CV",
+        "dummy": null
+    },
+    {
+        "name": "GG",
+        "dummy": null
+    },
+    {
+        "name": "GN",
+        "dummy": null
+    },
+    {
+        "name": "GW",
+        "dummy": null
+    },
+    {
+        "name": "CY",
+        "dummy": null
+    },
+    {
+        "name": "CW",
+        "dummy": null
+    },
+    {
+        "name": "CU",
+        "dummy": null
+    },
+    {
+        "name": "GR",
+        "dummy": null
+    },
+    {
+        "name": "KI",
+        "dummy": null
+    },
+    {
+        "name": "KG",
+        "dummy": null
+    },
+    {
+        "name": "GT",
+        "dummy": null
+    },
+    {
+        "name": "GP",
+        "dummy": null
+    },
+    {
+        "name": "GU",
+        "dummy": null
+    },
+    {
+        "name": "KW",
+        "dummy": null
+    },
+    {
+        "name": "CK",
+        "dummy": null
+    },
+    {
+        "name": "CX",
+        "dummy": null
+    },
+    {
+        "name": "GL",
+        "dummy": null
+    },
+    {
+        "name": "GE",
+        "dummy": null
+    },
+    {
+        "name": "GD",
+        "dummy": null
+    },
+    {
+        "name": "HR",
+        "dummy": null
+    },
+    {
+        "name": "KY",
+        "dummy": null
+    },
+    {
+        "name": "KE",
+        "dummy": null
+    },
+    {
+        "name": "CC",
+        "dummy": null
+    },
+    {
+        "name": "CR",
+        "dummy": null
+    },
+    {
+        "name": "XK",
+        "dummy": null
+    },
+    {
+        "name": "KM",
+        "dummy": null
+    },
+    {
+        "name": "CO",
+        "dummy": null
+    },
+    {
+        "name": "CD",
+        "dummy": null
+    },
+    {
+        "name": "CG",
+        "dummy": null
+    },
+    {
+        "name": "CI",
+        "dummy": null
+    },
+    {
+        "name": "SA",
+        "dummy": null
+    },
+    {
+        "name": "WS",
+        "dummy": null
+    },
+    {
+        "name": "BL",
+        "dummy": null
+    },
+    {
+        "name": "MF",
+        "dummy": null
+    },
+    {
+        "name": "ST",
+        "dummy": null
+    },
+    {
+        "name": "ZM",
+        "dummy": null
+    },
+    {
+        "name": "PM",
+        "dummy": null
+    },
+    {
+        "name": "SM",
+        "dummy": null
+    },
+    {
+        "name": "SL",
+        "dummy": null
+    },
+    {
+        "name": "DJ",
+        "dummy": null
+    },
+    {
+        "name": "GI",
+        "dummy": null
+    },
+    {
+        "name": "JM",
+        "dummy": null
+    },
+    {
+        "name": "JE",
+        "dummy": null
+    },
+    {
+        "name": "SY",
+        "dummy": null
+    },
+    {
+        "name": "SG",
+        "dummy": null
+    },
+    {
+        "name": "ZW",
+        "dummy": null
+    },
+    {
+        "name": "CH",
+        "dummy": null
+    },
+    {
+        "name": "SJ",
+        "dummy": null
+    },
+    {
+        "name": "SE",
+        "dummy": null
+    },
+    {
+        "name": "ES",
+        "dummy": null
+    },
+    {
+        "name": "SR",
+        "dummy": null
+    },
+    {
+        "name": "LK",
+        "dummy": null
+    },
+    {
+        "name": "SK",
+        "dummy": null
+    },
+    {
+        "name": "SI",
+        "dummy": null
+    },
+    {
+        "name": "SZ",
+        "dummy": null
+    },
+    {
+        "name": "SD",
+        "dummy": null
+    },
+    {
+        "name": "SC",
+        "dummy": null
+    },
+    {
+        "name": "EA",
+        "dummy": null
+    },
+    {
+        "name": "SN",
+        "dummy": null
+    },
+    {
+        "name": "RS",
+        "dummy": null
+    },
+    {
+        "name": "SX",
+        "dummy": null
+    },
+    {
+        "name": "KN",
+        "dummy": null
+    },
+    {
+        "name": "VC",
+        "dummy": null
+    },
+    {
+        "name": "SH",
+        "dummy": null
+    },
+    {
+        "name": "LC",
+        "dummy": null
+    },
+    {
+        "name": "SO",
+        "dummy": null
+    },
+    {
+        "name": "SB",
+        "dummy": null
+    },
+    {
+        "name": "TH",
+        "dummy": null
+    },
+    {
+        "name": "TJ",
+        "dummy": null
+    },
+    {
+        "name": "TZ",
+        "dummy": null
+    },
+    {
+        "name": "TC",
+        "dummy": null
+    },
+    {
+        "name": "CZ",
+        "dummy": null
+    },
+    {
+        "name": "TD",
+        "dummy": null
+    },
+    {
+        "name": "TN",
+        "dummy": null
+    },
+    {
+        "name": "CL",
+        "dummy": null
+    },
+    {
+        "name": "TV",
+        "dummy": null
+    },
+    {
+        "name": "DG",
+        "dummy": null
+    },
+    {
+        "name": "DK",
+        "dummy": null
+    },
+    {
+        "name": "DE",
+        "dummy": null
+    },
+    {
+        "name": "TK",
+        "dummy": null
+    },
+    {
+        "name": "DO",
+        "dummy": null
+    },
+    {
+        "name": "DM",
+        "dummy": null
+    },
+    {
+        "name": "TA",
+        "dummy": null
+    },
+    {
+        "name": "TT",
+        "dummy": null
+    },
+    {
+        "name": "TM",
+        "dummy": null
+    },
+    {
+        "name": "TR",
+        "dummy": null
+    },
+    {
+        "name": "TO",
+        "dummy": null
+    },
+    {
+        "name": "TG",
+        "dummy": null
+    },
+    {
+        "name": "NG",
+        "dummy": null
+    },
+    {
+        "name": "NR",
+        "dummy": null
+    },
+    {
+        "name": "NA",
+        "dummy": null
+    },
+    {
+        "name": "NU",
+        "dummy": null
+    },
+    {
+        "name": "NI",
+        "dummy": null
+    },
+    {
+        "name": "NE",
+        "dummy": null
+    },
+    {
+        "name": "NC",
+        "dummy": null
+    },
+    {
+        "name": "NZ",
+        "dummy": null
+    },
+    {
+        "name": "NP",
+        "dummy": null
+    },
+    {
+        "name": "NO",
+        "dummy": null
+    },
+    {
+        "name": "NF",
+        "dummy": null
+    },
+    {
+        "name": "HT",
+        "dummy": null
+    },
+    {
+        "name": "PK",
+        "dummy": null
+    },
+    {
+        "name": "VA",
+        "dummy": null
+    },
+    {
+        "name": "PA",
+        "dummy": null
+    },
+    {
+        "name": "VU",
+        "dummy": null
+    },
+    {
+        "name": "BS",
+        "dummy": null
+    },
+    {
+        "name": "PG",
+        "dummy": null
+    },
+    {
+        "name": "BM",
+        "dummy": null
+    },
+    {
+        "name": "PW",
+        "dummy": null
+    },
+    {
+        "name": "PY",
+        "dummy": null
+    },
+    {
+        "name": "BB",
+        "dummy": null
+    },
+    {
+        "name": "PS",
+        "dummy": null
+    },
+    {
+        "name": "HU",
+        "dummy": null
+    },
+    {
+        "name": "BD",
+        "dummy": null
+    },
+    {
+        "name": "HM",
+        "dummy": null
+    },
+    {
+        "name": "BH",
+        "dummy": null
+    },
+    {
+        "name": "PN",
+        "dummy": null
+    },
+    {
+        "name": "FJ",
+        "dummy": null
+    },
+    {
+        "name": "PH",
+        "dummy": null
+    },
+    {
+        "name": "FI",
+        "dummy": null
+    },
+    {
+        "name": "PR",
+        "dummy": null
+    },
+    {
+        "name": "FO",
+        "dummy": null
+    },
+    {
+        "name": "FK",
+        "dummy": null
+    },
+    {
+        "name": "BR",
+        "dummy": null
+    },
+    {
+        "name": "FR",
+        "dummy": null
+    },
+    {
+        "name": "GF",
+        "dummy": null
+    },
+    {
+        "name": "PF",
+        "dummy": null
+    },
+    {
+        "name": "TF",
+        "dummy": null
+    },
+    {
+        "name": "BG",
+        "dummy": null
+    },
+    {
+        "name": "BF",
+        "dummy": null
+    },
+    {
+        "name": "BN",
+        "dummy": null
+    },
+    {
+        "name": "BI",
+        "dummy": null
+    },
+    {
+        "name": "BT",
+        "dummy": null
+    },
+    {
+        "name": "BV",
+        "dummy": null
+    },
+    {
+        "name": "VN",
+        "dummy": null
+    },
+    {
+        "name": "BJ",
+        "dummy": null
+    },
+    {
+        "name": "VE",
+        "dummy": null
+    },
+    {
+        "name": "BY",
+        "dummy": null
+    },
+    {
+        "name": "BZ",
+        "dummy": null
+    },
+    {
+        "name": "BE",
+        "dummy": null
+    },
+    {
+        "name": "PE",
+        "dummy": null
+    },
+    {
+        "name": "BA",
+        "dummy": null
+    },
+    {
+        "name": "BW",
+        "dummy": null
+    },
+    {
+        "name": "BO",
+        "dummy": null
+    },
+    {
+        "name": "PT",
+        "dummy": null
+    },
+    {
+        "name": "HN",
+        "dummy": null
+    },
+    {
+        "name": "PL",
+        "dummy": null
+    },
+    {
+        "name": "MO",
+        "dummy": null
+    },
+    {
+        "name": "MK",
+        "dummy": null
+    },
+    {
+        "name": "MG",
+        "dummy": null
+    },
+    {
+        "name": "YT",
+        "dummy": null
+    },
+    {
+        "name": "MW",
+        "dummy": null
+    },
+    {
+        "name": "ML",
+        "dummy": null
+    },
+    {
+        "name": "MT",
+        "dummy": null
+    },
+    {
+        "name": "MQ",
+        "dummy": null
+    },
+    {
+        "name": "MY",
+        "dummy": null
+    },
+    {
+        "name": "IM",
+        "dummy": null
+    },
+    {
+        "name": "MH",
+        "dummy": null
+    },
+    {
+        "name": "FM",
+        "dummy": null
+    },
+    {
+        "name": "MM",
+        "dummy": null
+    },
+    {
+        "name": "MX",
+        "dummy": null
+    },
+    {
+        "name": "MZ",
+        "dummy": null
+    },
+    {
+        "name": "MC",
+        "dummy": null
+    },
+    {
+        "name": "MV",
+        "dummy": null
+    },
+    {
+        "name": "MD",
+        "dummy": null
+    },
+    {
+        "name": "MA",
+        "dummy": null
+    },
+    {
+        "name": "MN",
+        "dummy": null
+    },
+    {
+        "name": "ME",
+        "dummy": null
+    },
+    {
+        "name": "MS",
+        "dummy": null
+    },
+    {
+        "name": "MU",
+        "dummy": null
+    },
+    {
+        "name": "MR",
+        "dummy": null
+    },
+    {
+        "name": "JO",
+        "dummy": null
+    },
+    {
+        "name": "_EU",
+        "dummy": null
+    },
+    {
+        "name": "LA",
+        "dummy": null
+    },
+    {
+        "name": "LV",
+        "dummy": null
+    },
+    {
+        "name": "LT",
+        "dummy": null
+    },
+    {
+        "name": "LY",
+        "dummy": null
+    },
+    {
+        "name": "LI",
+        "dummy": null
+    },
+    {
+        "name": "LR",
+        "dummy": null
+    },
+    {
+        "name": "LU",
+        "dummy": null
+    },
+    {
+        "name": "RW",
+        "dummy": null
+    },
+    {
+        "name": "RO",
+        "dummy": null
+    },
+    {
+        "name": "LS",
+        "dummy": null
+    },
+    {
+        "name": "LB",
+        "dummy": null
+    },
+    {
+        "name": "RE",
+        "dummy": null
+    },
+    {
+        "name": "RU",
+        "dummy": null
+    },
+    {
+        "name": "TW",
+        "dummy": null
+    },
+    {
+        "name": "KR",
+        "dummy": null
+    },
+    {
+        "name": "HK",
+        "dummy": null
+    },
+    {
+        "name": "UM",
+        "dummy": null
+    },
+    {
+        "name": "EH",
+        "dummy": null
+    },
+    {
+        "name": "GQ",
+        "dummy": null
+    },
+    {
+        "name": "CF",
+        "dummy": null
+    },
+    {
+        "name": "CN",
+        "dummy": null
+    },
+    {
+        "name": "TL",
+        "dummy": null
+    },
+    {
+        "name": "ZA",
+        "dummy": null
+    },
+    {
+        "name": "_SA",
+        "dummy": null
+    },
+    {
+        "name": "SS",
+        "dummy": null
+    },
+    {
+        "name": "AQ",
+        "dummy": null
+    },
+    {
+        "name": "_NA",
+        "dummy": null
+    },
+    {
+        "name": "MP",
+        "dummy": null
+    },
+    {
+        "name": "KP",
+        "dummy": null
+    }
+]

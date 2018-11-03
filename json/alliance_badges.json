@@ -1,212 +1,1082 @@
 [
     {
-        "name": "clan_badge_01_01",
+        "name": "Flame_01",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_01_01",
-        "category": null,
-        "id": 8
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_01_02",
+        "name": "Flame_02",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_01_02",
-        "category": null,
-        "id": 9
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_01_03",
+        "name": "Flame_03",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_01_03",
-        "category": null,
-        "id": 10
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_01_04",
+        "name": "Flame_04",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_01_04",
-        "category": null,
-        "id": 11
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_02_01",
+        "name": "Sword_01",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_02_01",
-        "category": null,
-        "id": 12
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_02_02",
+        "name": "Sword_02",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_02_02",
-        "category": null,
-        "id": 13
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_02_03",
+        "name": "Sword_03",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_02_03",
-        "category": null,
-        "id": 14
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_02_04",
+        "name": "Sword_04",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_02_04",
-        "category": null,
-        "id": 15
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_03_01",
+        "name": "Bolt_01",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_03_01",
-        "category": null,
-        "id": 16
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_03_02",
+        "name": "Bolt_02",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_03_02",
-        "category": null,
-        "id": 17
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_03_03",
+        "name": "Bolt_03",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_03_03",
-        "category": null,
-        "id": 18
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_03_04",
+        "name": "Bolt_04",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_03_04",
-        "category": null,
-        "id": 19
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_04_01",
+        "name": "Crown_01",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_04_01",
-        "category": null,
-        "id": 20
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_04_02",
+        "name": "Crown_02",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_04_02",
-        "category": null,
-        "id": 21
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_04_03",
+        "name": "Crown_03",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_04_03",
-        "category": null,
-        "id": 22
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_04_04",
+        "name": "Crown_04",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_04_04",
-        "category": null,
-        "id": 23
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_05_01",
+        "name": "Arrow_01",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_05_01",
-        "category": null,
-        "id": 24
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_05_02",
+        "name": "Arrow_02",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_05_02",
-        "category": null,
-        "id": 25
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_05_03",
+        "name": "Arrow_03",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_05_03",
-        "category": null,
-        "id": 26
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_05_04",
+        "name": "Arrow_04",
         "iconSWF": "sc/ui.sc",
         "iconExportName": "clan_badge_05_04",
-        "category": null,
-        "id": 27
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_01_05",
+        "name": "Diamond_Star_01",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_01_05",
-        "category": null,
-        "id": 28
+        "iconExportName": "clan_badge_06_01",
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_01_06",
+        "name": "Diamond_Star_02",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_01_06",
-        "category": null,
-        "id": 29
+        "iconExportName": "clan_badge_06_02",
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_02_05",
+        "name": "Diamond_Star_03",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_02_05",
-        "category": null,
-        "id": 30
+        "iconExportName": "clan_badge_06_03",
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_02_06",
+        "name": "Diamond_Star_04",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_02_06",
-        "category": null,
-        "id": 31
+        "iconExportName": "clan_badge_06_04",
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_03_05",
+        "name": "Skull_01",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_03_05",
-        "category": null,
-        "id": 32
+        "iconExportName": "clan_badge_07_01",
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_03_06",
+        "name": "Skull_02",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_03_06",
-        "category": null,
-        "id": 33
+        "iconExportName": "clan_badge_07_02",
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_04_05",
+        "name": "Skull_03",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_04_05",
-        "category": null,
-        "id": 34
+        "iconExportName": "clan_badge_07_03",
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_04_06",
+        "name": "Skull_04",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_04_06",
-        "category": null,
-        "id": 35
+        "iconExportName": "clan_badge_07_04",
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_05_05",
+        "name": "Skull_05",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_05_05",
-        "category": null,
-        "id": 36
+        "iconExportName": "clan_badge_07_05",
+        "category": "01_Symbol"
     },
     {
-        "name": "clan_badge_05_06",
+        "name": "Skull_06",
         "iconSWF": "sc/ui.sc",
-        "iconExportName": "clan_badge_05_06",
-        "category": null,
-        "id": 37
+        "iconExportName": "clan_badge_07_06",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Moon_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_08_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Moon_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_08_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Moon_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_08_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Pine_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_09_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Pine_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_09_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Pine_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_09_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Traditional_Star_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_10_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Traditional_Star_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_10_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Traditional_Star_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_10_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Traditional_Star_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_10_04",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Traditional_Star_05",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_10_05",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Traditional_Star_06",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_10_06",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Star_Shine_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_11_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Star_Shine_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_11_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Star_Shine_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_11_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Diamond_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_12_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Diamond_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_12_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Diamond_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_12_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "flag_a_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_13_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_a_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_13_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_a_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_13_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_b_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_14_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_b_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_14_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_b_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_14_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_c_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_15_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_c_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_15_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_c_05",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_15_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_c_06",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_15_04",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_c_07",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_15_05",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_c_08",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_15_06",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_d_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_16_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_d_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_16_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_d_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_16_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_d_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_16_04",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_d_05",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_16_05",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_d_06",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_16_06",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_f_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_17_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_f_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_17_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_g_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_18_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_g_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_18_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_i_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_19_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_i_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_19_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_h_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_20_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_h_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_20_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_h_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_20_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_j_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_21_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_j_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_21_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_j_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_21_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_k_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_22_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_k_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_22_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_k_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_22_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_k_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_22_04",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_k_05",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_22_05",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_k_06",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_22_06",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_l_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_23_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_l_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_23_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_l_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_23_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_m_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_24_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_m_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_24_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_m_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_24_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_n_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_25_01",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_n_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_25_02",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_n_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_25_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_n_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_25_04",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_n_05",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_25_05",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_n_06",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_25_06",
+        "category": "02_Flag"
+    },
+    {
+        "name": "Twin_Peaks_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_27_04",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Twin_Peaks_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_27_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Gem_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_31_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Gem_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_31_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Gem_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_31_03",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Gem_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_31_04",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Coin_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_32_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Coin_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_32_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Coin_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_32_03",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Coin_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_32_04",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Elixir_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_43_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Elixir_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_43_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Heart_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_30_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Heart_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_30_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Heart_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_30_04",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Heart_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_30_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Tower_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_44_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Tower_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_44_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Tower_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_44_03",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Tower_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_44_04",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Fan_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_36_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Fan_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_36_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Fan_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_36_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Fan_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_36_04",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Fugi_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_26_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Fugi_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_26_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Fugi_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_26_04",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Fugi_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_26_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "YingYang_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_28_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "YingYang_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_28_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "flag_c_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_28_03",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_c_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_28_04",
+        "category": "02_Flag"
+    },
+    {
+        "name": "Cherry_Blossom_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_34_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Cherry_Blossom_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_34_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Cherry_Blossom_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_34_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Cherry_Blossom_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_34_04",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Cherry_Blossom_06",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_35_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Cherry_Blossom_05",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_35_04",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Cherry_Blossom_07",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_35_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Cherry_Blossom_08",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_35_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Bamboo_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_29_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Bamboo_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_29_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Bamboo_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_29_03",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Bamboo_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_29_04",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Orange_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_37_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Orange_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_37_04",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Lotus_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_40_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Lotus_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_40_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "A_Char_King_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_54_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_King_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_54_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_King_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_54_03",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_King_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_54_04",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Barbarian_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_47_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Barbarian_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_47_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Prince_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_48_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Prince_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_48_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Knight_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_55_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Knight_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_55_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Goblin_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_53_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Goblin_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_53_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_DarkPrince_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_49_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_DarkPrince_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_49_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_DarkPrince_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_49_03",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_DarkPrince_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_49_04",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_MiniPekka_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_51_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_MiniPekka_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_51_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Pekka_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_38_03",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Pekka_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_38_04",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Hammer_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_45_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Hammer_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_45_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Rocket_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_42_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Rocket_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_42_02",
+        "category": "03_Royale"
+    },
+    {
+        "name": "Freeze_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_56_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Freeze_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_56_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Clover_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_57_01",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "Clover_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_57_02",
+        "category": "01_Symbol"
+    },
+    {
+        "name": "flag_h_04",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_20_04",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_e_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_20_05",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_i_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_20_06",
+        "category": "02_Flag"
+    },
+    {
+        "name": "flag_e_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_20_07",
+        "category": "02_Flag"
+    },
+    {
+        "name": "A_Char_Barbarian_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_47_03",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Prince_03",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_48_03",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Bomb_01",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_58_01",
+        "category": "03_Royale"
+    },
+    {
+        "name": "A_Char_Bomb_02",
+        "iconSWF": "sc/ui.sc",
+        "iconExportName": "clan_badge_58_02",
+        "category": "03_Royale"
     }
 ]

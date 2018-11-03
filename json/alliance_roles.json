@@ -7,10 +7,11 @@
         "canSendMail": false,
         "canChangeAllianceSettings": false,
         "canAcceptJoinRequest": false,
-        "canKick": null,
-        "canBePromotedToLeader": null,
-        "promoteSkill": 0,
-        "id": 25
+        "canKick": false,
+        "canStartWar": false,
+        "canSendWarBattlesNotification": false,
+        "canBePromotedToLeader": false,
+        "canPromoteToOwnLevel": false
     },
     {
         "name": "Member",
@@ -21,9 +22,10 @@
         "canChangeAllianceSettings": false,
         "canAcceptJoinRequest": false,
         "canKick": false,
+        "canStartWar": false,
+        "canSendWarBattlesNotification": false,
         "canBePromotedToLeader": null,
-        "promoteSkill": 0,
-        "id": 26
+        "canPromoteToOwnLevel": null
     },
     {
         "name": "Leader",
@@ -34,9 +36,10 @@
         "canChangeAllianceSettings": true,
         "canAcceptJoinRequest": true,
         "canKick": true,
+        "canStartWar": true,
+        "canSendWarBattlesNotification": true,
         "canBePromotedToLeader": true,
-        "promoteSkill": 2,
-        "id": 27
+        "canPromoteToOwnLevel": null
     },
     {
         "name": "Elder",
@@ -47,9 +50,10 @@
         "canChangeAllianceSettings": false,
         "canAcceptJoinRequest": true,
         "canKick": true,
+        "canStartWar": false,
+        "canSendWarBattlesNotification": false,
         "canBePromotedToLeader": null,
-        "promoteSkill": 0,
-        "id": 28
+        "canPromoteToOwnLevel": null
     },
     {
         "name": "Co-leader",
@@ -60,8 +64,9 @@
         "canChangeAllianceSettings": true,
         "canAcceptJoinRequest": true,
         "canKick": true,
+        "canStartWar": true,
+        "canSendWarBattlesNotification": true,
         "canBePromotedToLeader": true,
-        "promoteSkill": 2,
-        "id": 29
+        "canPromoteToOwnLevel": true
     }
 ]

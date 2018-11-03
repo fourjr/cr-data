@@ -1,59 +1,42 @@
-"Name","Disabled","TID","TileSetPrefix","BgPrefix","SWF","TileSetRedAdd","TileSetGreenAdd","TileSetBlueAdd","TileSetRedMul","TileSetGreenMul","TileSetBlueMul","IconSWF","IconExportName","GameMode","AllowedMaps","ShadowR","ShadowG","ShadowB","ShadowA","Music","LargeMap","CommunityCredit"
-"string","boolean","string","string","string","string","int","int","int","int","int","int","string","string","string","string","int","int","int","int","string","boolean","string"
-"Wanted1",,"TID_WANTED_1","oasis_",,"sc/oasis_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_oasis","BountyHunter","Wanted_1",0,66,66,60,,,
-"Wanted2",,"TID_WANTED_3","oasis_",,"sc/oasis_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_oasis","BountyHunter","Wanted_3",0,66,66,60,,,
-"Wanted3",,"TID_WANTED_4",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","BountyHunter","Gemgrab_3",100,0,0,60,,,
-"Wanted4",,"TID_WANTED_5",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","BountyHunter","Gemgrab_2",100,0,0,60,,,
-"Wanted5",,"TID_WANTED_6",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","BountyHunter","Wanted_4",100,0,0,60,,,
-"Wanted6",,"TID_WANTED_7",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","BountyHunter","Wanted_5",100,0,0,60,,,
-"Wanted7",,"TID_WANTED_2","oasis_",,"sc/oasis_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_oasis","BountyHunter","Wanted_2",0,66,66,60,,,
-"Gemgrab1",,"TID_GOLDRUSH_1","mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_gemmine","CoinRush","Gemgrab_1",0,0,100,60,,,
-"Gemgrab2",,"TID_GOLDRUSH_2","mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_gemmine","CoinRush","Gemgrab_2",0,0,100,60,,,
-"Gemgrab3",,"TID_GOLDRUSH_3","mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_gemmine","CoinRush","Gemgrab_3",0,0,100,60,,,
-"Gemgrab4",,"TID_GOLDRUSH_4","mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_gemmine","CoinRush","Wanted_3",0,0,100,60,,,
-"Gemgrab5",,"TID_GOLDRUSH_5","mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_gemmine","CoinRush","Gemgrab_5",0,0,100,60,,,
-"Gemgrab6",,"TID_GOLDRUSH_6","mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_gemmine","CoinRush","Gemgrab_4",0,0,100,60,,,
-"Survival1",,"TID_BATTLE_ROYALE_1",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyale","Survival_1",100,0,0,60,,,
-"Survival2",,"TID_BATTLE_ROYALE_2",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyale","Survival_2",100,0,0,60,,,"OwenReds"
-"Survival3",,"TID_BATTLE_ROYALE_3",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyale","Survival_3",100,0,0,60,,,
-"Survival4",,"TID_BATTLE_ROYALE_4",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyale","Survival_4",100,0,0,60,,,
-"Heist1",,"TID_BANKHEIST_1",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","AttackDefend","Bankheist_1",100,0,0,60,,,
-"Heist2",,"TID_BANKHEIST_2",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","AttackDefend","Bankheist_2",100,0,0,60,,,
-"Heist3",,"TID_BANKHEIST_3",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","AttackDefend","Bankheist_3",100,0,0,60,,,
-"Tutorial",,,"mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_welcome","Tutorial",,0,0,100,60,,,
-"BossFight1",,"TID_BOSS_1",,,"sc/canyon_level.sc",30,0,0,255,230,230,"sc/ui.sc","event_boss","BossFight","BossFight_1",0,66,66,60,,,
-"Wanted8",,"TID_WANTED_8","oasis_",,"sc/oasis_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_oasis","BountyHunter","Wanted_8",0,66,66,60,,,
-"Heist4",,"TID_BANKHEIST_4",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","AttackDefend","Bankheist_4",100,0,0,60,,,
-"Ball1",,"TID_BALL_1","grassfield_",,"sc/grassfield_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_brawlball","LaserBall","Laserball_1",0,66,66,60,,,
-"Ball2",,"TID_BALL_2","grassfield_",,"sc/grassfield_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_brawlball","LaserBall","Laserball_2",0,66,66,60,,,
-"Ball3",,"TID_BALL_3","grassfield_",,"sc/grassfield_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_brawlball","LaserBall","Laserball_3",0,66,66,60,,,
-"Coop1",,"TID_COOP_1",,,"sc/canyon_level.sc",0,0,40,210,210,255,"sc/ui.sc","event_coop","Survival","Coop_1",100,0,0,60,,,
-"SurvivalTeam1",,"TID_BATTLE_ROYALE_TEAM_1",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyaleTeam","SurvivalTeam_1",100,0,0,60,,,
-"Coop2",,"TID_COOP_2",,,"sc/canyon_level.sc",0,0,40,210,210,255,"sc/ui.sc","event_coop","Survival","Coop_2",100,0,0,60,,,
-"BossFight2",,"TID_BOSS_2","mine_",,"sc/mine_level.sc",30,0,0,255,230,230,"sc/ui.sc","event_boss","BossFight","BossFight_2",0,0,100,60,,,
-"Gemgrab8","true","TID_GOLDRUSH_8",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","CoinRush","Gemgrab_8",0,0,100,60,,,
-"Survival5",,"TID_BATTLE_ROYALE_5",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyale","Survival_5",100,0,0,60,,,"Mordeus"
-"Survival6",,"TID_BATTLE_ROYALE_6",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyale","Survival_6",100,0,0,60,,,
-"SurvivalTeam2",,"TID_BATTLE_ROYALE_1",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyaleTeam","Survival_1",100,0,0,60,,,
-"SurvivalTeam3",,"TID_BATTLE_ROYALE_2",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyaleTeam","Survival_2",100,0,0,60,,,"OwenReds"
-"SurvivalTeam4",,"TID_BATTLE_ROYALE_3",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyaleTeam","Survival_3",100,0,0,60,,,
-"SurvivalTeam5",,"TID_BATTLE_ROYALE_4",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyaleTeam","Survival_4",100,0,0,60,,,
-"SurvivalTeam6",,"TID_BATTLE_ROYALE_5",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyaleTeam","Survival_5",100,0,0,60,,,"Mordeus"
-"GeneratedRobo",,"TID_COOP_GENERATED",,,"sc/canyon_level.sc",0,0,40,210,210,255,"sc/ui.sc","event_coop","Survival","GeneratedRobo",100,0,0,60,,,
-"Gemgrab7",,"TID_GOLDRUSH_7","mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_gemmine","CoinRush","Gemgrab_7",0,0,100,60,,,"Elatrock & Dragonhoff (pixelcrux.com admin)"
-"Gemgrab10",,"TID_GOLDRUSH_10","mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_gemmine","CoinRush","Gemgrab_10",0,0,100,60,,,"Lewinham"
-"Heist5",,"TID_BANKHEIST_5",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","AttackDefend","Bankheist_5",100,0,0,60,,,"Rushalisk"
-"Survival7",,"TID_BATTLE_ROYALE_TEAM_1",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyale","SurvivalTeam_1",100,0,0,60,,,
-"SurvivalTeam7",,"TID_BATTLE_ROYALE_6",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyaleTeam","Survival_6",100,0,0,60,,,
-"Survival8",,"TID_BATTLE_ROYALE_8",,"survival_water_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyale","Survival_8",100,0,0,60,,,"Rushalisk"
-"SurvivalTeam8",,"TID_BATTLE_ROYALE_8",,"survival_water_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyaleTeam","Survival_8",100,0,0,60,,,"Rushalisk"
-"Heist6",,"TID_BANKHEIST_6",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","AttackDefend","Bankheist_6",100,0,0,60,,,"Mordeus"
-"Gemgrab11",,"TID_GOLDRUSH_11","mine_",,"sc/mine_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_gemmine","CoinRush","Gemgrab_11",0,0,100,60,,,"Narcariel "
-"Heist7",,"TID_BANKHEIST_7",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","AttackDefend","Bankheist_7",100,0,0,60,,,"Schmedricks"
-"Ball4",,"TID_BALL_4","grassfield_",,"sc/grassfield_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_brawlball","LaserBall","Laserball_4",0,66,66,60,,,"Lex"
-"Ball6",,"TID_BALL_6","grassfield_",,"sc/grassfield_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_brawlball","LaserBall","Laserball_6",0,66,66,60,,,"Mordeus"
-"Ball7",,"TID_BALL_7","grassfield_",,"sc/grassfield_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_brawlball","LaserBall","Laserball_7",0,66,66,60,,,"Lewinham"
-"Heist8",,"TID_BANKHEIST_8",,,"sc/canyon_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_canyon","AttackDefend","Bankheist_8",100,0,0,60,,,"AlexEsteAdevarat "
-"Wanted9",,"TID_WANTED_9","oasis_",,"sc/oasis_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_oasis","BountyHunter","Wanted_9",0,66,66,60,,,"thelucas2000 "
-"Survival12",,"TID_BATTLE_ROYALE_12",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyale","Survival_12",100,0,0,60,,,"Tony_A9"
-"SurvivalTeam12",,"TID_BATTLE_ROYALE_12",,"survival_","sc/survival_level.sc",0,0,0,255,255,255,"sc/ui.sc","event_stormvalley","BattleRoyaleTeam","Survival_12",100,0,0,60,,,"Tony_A9"
+"Name","NpcOnly","PvpOnly","ShadowR","ShadowG","ShadowB","ShadowA","ShadowOffsetX","ShadowOffsetY","Sound","ExtraTimeMusic","MatchLength","WinCondition","OvertimeSeconds","EndScreenDelay","FileName","TileDataFileName","AmbientSound","OverlaySC","OverlayExportName","CrowdEffects","CloudFileName","CloudExportName","CloudRandomFlip","CloudMinScale","CloudMaxScale","CloudMinSpeed","CloudMaxSpeed","CloudMinAlpha","CloudMaxAlpha","CloudCount","WalkEffect","WalkEffectOvertime","LoopingEffectRegularTime","LoopingEffectFinalMinute","LoopingEffectOvertime","LoopingEffect","LoopingEffectOvertimeSide","ReflectionRed","ReflectionGreen","ReflectionBlue","ChainedSWF","ChainedExportName","MusicOverride"
+"string","boolean","boolean","int","int","int","int","int","int","string","string","int","string","int","int","string","string","string","string","string","boolean","string","string","boolean","int","int","int","int","int","int","int","string","string","string","string","string","string","string","int","int","int","string","string","string"
+"FirstMatch","true",,,,100,60,100,100,"Tut_jing_start","60sec_training",,"Normal",,4000,"locations/training_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,,"sc/effects.sc","cloud_1","true",54,114,25,154,7,10,4,,,,,,,,,,,,,
+"TrainingCamp","true",,,,100,60,100,100,"Tut_jing_start","60sec_training",180,"Normal",60,4000,"locations/training_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,,"sc/effects.sc","cloud_1","true",54,114,25,154,7,10,4,,,,,,,,,,,,,
+"PvP_goblin",,"true",,30,,55,100,200,"Goblin_arena_start","Sudden_death",180,"Normal",60,4000,"locations/goblin_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_barbarian",,"true",,,100,50,100,100,"Barbarian_arena_start","Sudden_death",180,"Normal",60,4000,"locations/barbarian_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_bone",,"true",50,10,,55,100,144,"Bone_pit_arena_start","Sudden_death",180,"Normal",60,4000,"locations/bone_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_dark",,"true",50,10,,55,100,100,"Dark_arena_start","Sudden_death",180,"Normal",60,4000,"locations/dark_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true",,,"true",,,,,,,,,,,,,,,,,,,,
+"PvP_royal",,"true",,,100,50,100,100,"match start","Sudden_death",180,"Normal",60,4000,"locations/royal_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_spell",,"true",,,100,50,100,100,"Spell_arena_start","Sudden_death",180,"Normal",60,4000,"locations/spell_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_legendary",,"true",,,100,50,100,100,"Legendary_arena_start","Sudden_death",180,"Normal",60,4000,"locations/legendary_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",114,177,397,112,5,10,,,,,,,,,,,,,,
+"PvP_builder",,"true",,,100,50,100,100,"Builder_arena_start","Sudden_death",180,"Normal",60,4000,"locations/builder_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,4,9,5,,,,,,,,,,,,,
+"PvP_ice",,"true",122,132,224,60,100,200,"Ice_arena_start","Sudden_death",180,"Normal",60,4000,"locations/ice_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,,,,,,,"ice_arena_snow",,,,,,,
+"PvP_jungle",,"true",122,132,224,60,100,200,"Jungle_arena_start","Sudden_death",180,"Normal",60,4000,"locations/jungle_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,,,"jungle_arena_walk_splash",,,"jungle_arena_rain",,,,,,,,
+"TeamVsTeam_royal",,"true",,,100,50,100,100,"match start","Sudden_death",180,"Normal",60,4000,"locations/royal_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_champion",,"true",122,132,224,60,100,200,"Hog_arena_start","Sudden_death",180,"Normal",60,4000,"locations/champion_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","asteroid_shadow_anim_01","true",70,110,25,80,15,15,5,,,,,,,"legendary_arena_loop",24,20,20,,,
+"PvE_training","true",,,,100,60,100,100,"Tut_jing_start","60sec_training",180,"Normal",60,4000,"locations/champion_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,,"sc/effects.sc","cloud_1","true",54,114,25,154,7,10,4,,,,,,,,,,,,,
+"TvE_training","true",,,,100,60,100,100,"Tut_jing_start","60sec_training",180,"Normal",60,4000,"locations/champion_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,,"sc/effects.sc","cloud_1","true",54,114,25,154,7,10,4,,,,,,,,,,,,,
+"PvE_training1","true",,,,100,60,100,100,"Tut_jing_start","60sec_training",180,"Normal",60,4000,"locations/champion_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,,"sc/effects.sc","cloud_1","true",54,114,25,154,7,10,4,,,,,,,,,,,,,
+"TeamVsTeam_legendary",,"true",,,100,50,100,100,"Legendary_arena_start","Sudden_death",180,"Normal",60,4000,"locations/legendary_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",114,177,397,112,5,10,,,,,,,,,,,,,,
+"TeamVsTeam_goblin",,"true",,30,,55,100,200,"Goblin_arena_start","Sudden_death",180,"Normal",60,4000,"locations/goblin_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"TeamVsTeam_barbarian",,"true",,,100,50,100,100,"Barbarian_arena_start","Sudden_death",180,"Normal",60,4000,"locations/barbarian_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"TeamVsTeam_bone",,"true",50,10,,55,100,144,"Bone_pit_arena_start","Sudden_death",180,"Normal",60,4000,"locations/bone_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"TeamVsTeam_dark",,"true",50,10,,55,100,100,"Dark_arena_start","Sudden_death",180,"Normal",60,4000,"locations/dark_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true",,,"true",,,,,,,,,,,,,,,,,,,,
+"TeamVsTeam_spell",,"true",,,100,50,100,100,"Spell_arena_start","Sudden_death",180,"Normal",60,4000,"locations/spell_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"TeamVsTeam_builder",,"true",,,100,50,100,100,"Builder_arena_start","Sudden_death",180,"Normal",60,4000,"locations/builder_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,4,9,5,,,,,,,,,,,,,
+"TeamVsTeam_ice",,"true",122,132,224,60,100,200,"Ice_arena_start","Sudden_death",180,"Normal",60,4000,"locations/ice_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,,,,,,,"ice_arena_snow",,,,,,,
+"TeamVsTeam_jungle",,"true",122,132,224,60,100,200,"Jungle_arena_start","Sudden_death",180,"Normal",60,4000,"locations/jungle_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,,,"jungle_arena_walk_splash",,,"jungle_arena_rain",,,,,,,,
+"TeamVsTeam_champion",,"true",122,132,224,60,100,200,"Hog_arena_start","Sudden_death",180,"Normal",60,4000,"locations/champion_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","asteroid_shadow_anim_01","true",70,110,25,80,15,15,5,,,,,,,"legendary_arena_loop",24,20,20,,,
+"PvP_touchdown",,"true",,,100,50,100,100,"match start","Sudden_death",180,"Normal",60,4000,"locations/touchdown_arena.csv","tilemaps/tilemap_touchdown.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,,,,,,,,,,,,,,
+"TeamVsTeam_touchdown",,"true",,,100,25,100,100,"match start","Sudden_death",180,"Normal",60,4000,"locations/touchdown_arena.csv","tilemaps/tilemap_touchdown_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","touchdown_blimp_01",,85,105,40,80,10,10,1,,,,"legendary_arena_loop",,,"legendary_arena_loop",,,,,,
+"PvP_electric",,"true",,,100,50,100,100,"Electric_arena_start","Sudden_death",180,"Normal",60,4000,"locations/electric_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,,,,,,,,,,,,,,
+"TeamVsTeam_electric",,"true",,,100,50,100,100,"Electric_arena_start","Sudden_death",180,"Normal",60,4000,"locations/electric_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_koth",,"true",,,100,50,100,100,"match start","Sudden_death",180,"Normal",60,4000,"locations/electric_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"TeamVsTeam_koth",,"true",,,100,25,100,100,"match start","Sudden_death",180,"Normal",60,4000,"locations/electric_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_koth2",,"true",,,100,50,100,100,"match start","Sudden_death",180,"Normal",60,4000,"locations/electric_arena.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_clanwar",,"true",,,100,50,100,100,"match start","Sudden_death",180,"Normal",60,4000,"locations/clan_arena_t2.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"TeamVsTeam_training_camp","true",,,,100,60,100,100,"Tut_jing_start","60sec_training",180,"Normal",60,4000,"locations/training_arena_2v2.csv","tilemaps/tilemap_2v2.csv","ScrollAmb01",,,,"sc/effects.sc","cloud_1","true",54,114,25,154,7,10,4,,,,,,,,,,,,,
+"PvP_clan_t1",,"true",,,100,50,100,100,"cw_ar_jing","Sudden_death",180,"Normal",60,4000,"locations/clan_arena_t1.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_clan_t2",,"true",,,100,50,100,100,"cw_ar_jing","Sudden_death",180,"Normal",60,4000,"locations/clan_arena_t2.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_clan_t3",,"true",,,100,50,100,100,"cw_ar_jing","Sudden_death",180,"Normal",60,4000,"locations/clan_arena_t3.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,
+"PvP_clan_t4",,"true",,,100,50,100,100,"cw_ar_jing","Sudden_death",180,"Normal",60,4000,"locations/clan_arena_t4.csv","tilemaps/tilemap.csv","ScrollAmb01",,,"true","sc/effects.sc","cloud_1","true",70,110,25,80,15,15,5,,,,,,,,,,,,,

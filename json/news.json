@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Update",
+        "iD": 121,
+        "enabled": "TRUE",
+        "tID": "UPDATE!",
+        "infoTID": "LEGENDARY ARENA & SEASONS\\n- Legendary Arena: Unlocks at 3000 Trophies\\n- Seasons: Every two weeks, players above 3000 Trophies will be reset to 3000 and all deducted Trophies will be awarded as Legend Trophies!\\n\\n\u200bTOURNAMENT RULES\\n- Tournament Rules: Friendly Battles now use the all-new \\qTournament Standard\\q level caps for truly fair-play matches! The level caps are: King & Crown Towers 8, Common Cards 8, Rares 6, Epics 3 and overtime lasts for 3 minutes. Have fun organising your own tournaments!\\n\\n\u200bBALANCE & OTHER CHANGES\\n- Battle Cost: We\u00b4ve removed the Gold cost for Battles and Friendly Battles\\n- Balance: We\u00b4ve re-balanced a bunch of cards, visit www.clashroyale.com to find out more\\n- Bugs: Stuck Witches, iMessage issues and many more fixes",
+        "itemSWF": "sc/ui.sc",
+        "itemExportName": "news_item",
+        "iconSWF": null,
+        "iconExportName": null,
+        "imageSWF": null,
+        "imageExportName": null,
+        "buttonUrl": "http://clashroyale.com/blog/news/upcoming-balance-changes",
+        "buttonTID": "ClashRoyale.com"
+    }
+]

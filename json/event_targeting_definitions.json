@@ -1,0 +1,122 @@
+[
+    {
+        "name": "ByTag",
+        "metadataType": "TargetingMetadata",
+        "metadataPath": "Tags",
+        "evaluationLocation": "SERVER",
+        "personallyTargeting": "TRUE",
+        "parameterName": "Tag",
+        "parameterType": "ENUMERATION",
+        "isRequired": "TRUE",
+        "objectType": "Tags",
+        "matchingRuleType": "IsInStringList"
+    },
+    {
+        "name": "ByCountry",
+        "metadataType": "InGameMetadata",
+        "metadataPath": "Country",
+        "evaluationLocation": "SERVER",
+        "personallyTargeting": "FALSE",
+        "parameterName": "Country",
+        "parameterType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "STRING",
+        "matchingRuleType": "ContainsString"
+    },
+    {
+        "name": "ByAccountIdModulus",
+        "metadataType": "InGameMetadata",
+        "metadataPath": "AccountId",
+        "evaluationLocation": "SERVER",
+        "personallyTargeting": "FALSE",
+        "parameterName": "Parameters",
+        "parameterType": "OBJECT",
+        "isRequired": "TRUE",
+        "objectType": "ModuloParams",
+        "matchingRuleType": "ModuloMatch"
+    },
+    {
+        "name": "ByAccountType",
+        "metadataType": "InGameMetadata",
+        "metadataPath": "AccountType",
+        "evaluationLocation": "SERVER",
+        "personallyTargeting": "FALSE",
+        "parameterName": "AccountType",
+        "parameterType": "LIST",
+        "isRequired": "TRUE",
+        "objectType": "STRING",
+        "matchingRuleType": "ContainsString"
+    },
+    {
+        "name": "ByArenaLevel",
+        "metadataType": "InGameMetadata",
+        "metadataPath": "ArenaLevel",
+        "evaluationLocation": "SERVER",
+        "personallyTargeting": "FALSE",
+        "parameterName": "Low",
+        "parameterType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "matchingRuleType": "RangeLow"
+    },
+    {
+        "name": null,
+        "metadataType": null,
+        "metadataPath": null,
+        "evaluationLocation": null,
+        "personallyTargeting": null,
+        "parameterName": "High",
+        "parameterType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "matchingRuleType": "RangeHigh"
+    },
+    {
+        "name": "ByMaxTrophies",
+        "metadataType": "InGameMetadata",
+        "metadataPath": "MaxScore",
+        "evaluationLocation": "SERVER",
+        "personallyTargeting": "FALSE",
+        "parameterName": "Low",
+        "parameterType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "matchingRuleType": "RangeLow"
+    },
+    {
+        "name": null,
+        "metadataType": null,
+        "metadataPath": null,
+        "evaluationLocation": null,
+        "personallyTargeting": null,
+        "parameterName": "High",
+        "parameterType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "matchingRuleType": "RangeHigh"
+    },
+    {
+        "name": "ByPurchasedDiamonds",
+        "metadataType": "InGameMetadata",
+        "metadataPath": "PurchasedDiamonds",
+        "evaluationLocation": "SERVER",
+        "personallyTargeting": "FALSE",
+        "parameterName": "Low",
+        "parameterType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "matchingRuleType": "RangeLow"
+    },
+    {
+        "name": null,
+        "metadataType": null,
+        "metadataPath": null,
+        "evaluationLocation": null,
+        "personallyTargeting": null,
+        "parameterName": "High",
+        "parameterType": "NUMBER",
+        "isRequired": "TRUE",
+        "objectType": null,
+        "matchingRuleType": "RangeHigh"
+    }
+]

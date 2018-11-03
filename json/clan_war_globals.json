@@ -1,0 +1,1202 @@
+[
+    {
+        "name": "CLAN_WARS_ENABLED",
+        "numberValue": null,
+        "booleanValue": "TRUE",
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "SUPPORTED_GAME_MODES",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "TripleElixir_Ladder",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "ClassicDecks_Friendly",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "TeamVsTeam_Rage_Ladder",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "DraftModeInsane",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "TeamVsTeamDraftChallenge",
+        "numberArray": null
+    },
+    {
+        "name": "SHOULD_RANDOMISE_GAME_MODE",
+        "numberValue": null,
+        "booleanValue": "TRUE",
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "DECK_SPELL_SETS_NAME",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_damagespellsArena6",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_damagespellsArena6",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_allcardsArena6",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_allcardsArena6",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_tanktowersArena7",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_winconsArena7",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_antitankArena4",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_antiairArena6",
+        "numberArray": null
+    },
+    {
+        "name": "DECK_SPELL_SETS_PER_POOL",
+        "numberValue": 2,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "DECK_NUM_OVERLEVELLED_CARDS",
+        "numberValue": 6,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "MAX_BATTLES_PER_PLAYER",
+        "numberValue": 3,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "NUM_NORMAL_EVENTS",
+        "numberValue": 3,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "WAR_COLLECTION_MAX_SIZE",
+        "numberValue": 40,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "ALLOW_FRIENDLY_BATTLES",
+        "numberValue": null,
+        "booleanValue": "TRUE",
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "WAR_COLLECTION_NUM_COMMONS",
+        "numberValue": 12,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "WAR_COLLECTION_NUM_RARE",
+        "numberValue": 11,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "WAR_COLLECTION_NUM_EPIC",
+        "numberValue": 11,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "WAR_COLLECTION_NUM_LEGENDARY",
+        "numberValue": 6,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "MIN_PARTICIPATION_COUNT",
+        "numberValue": 10,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "MIN_XP_LEVEL_TO_PARTICIPATE",
+        "numberValue": 8,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "NUM_CARDS_NEEDED_FOR_NEXT_LEVEL_COMMON",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 2
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 4
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 10
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 20
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 50
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 100
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 200
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 400
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 800
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 1000
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 2000
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 5000
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 100
+    },
+    {
+        "name": "NUM_CARDS_NEEDED_FOR_NEXT_LEVEL_RARE",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 2
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 4
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 10
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 20
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 50
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 100
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 200
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 400
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 800
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 1000
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 10
+    },
+    {
+        "name": "NUM_CARDS_NEEDED_FOR_NEXT_LEVEL_EPIC",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 2
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 4
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 10
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 20
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 50
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 100
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 200
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 5
+    },
+    {
+        "name": "NUM_CARDS_NEEDED_FOR_NEXT_LEVEL_LEGENDARY",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 2
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 4
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 10
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 20
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 1
+    },
+    {
+        "name": "MAX_NEW_LEVELLING_UP_CARDS",
+        "numberValue": 8,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "OVERRIDE_LEGENDARY_CHANCE_IF_CATCHUP",
+        "numberValue": 200,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "LOSS_CHEST_SIZE_PERCENTAGE",
+        "numberValue": 50,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "CLAN_CHEST_SIZE_PLAYER_ARENA",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 80
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 80
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 80
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 80
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 80
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 80
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 90
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 100
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 110
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 120
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 130
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 140
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 150
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 160
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 160
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 160
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 170
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 170
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 170
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 180
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 180
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 180
+    },
+    {
+        "name": "WAR_SEASON_CHEST_BASE",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": "WarSeason",
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "WAR_SEASON_CHEST_RANKS",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "WarSeason1st",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "WarSeason2nd",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "WarSeason3rd",
+        "numberArray": null
+    },
+    {
+        "name": "COLLECTION_DAY_ARENA_INSTANCES",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_barbarian",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_magic",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_frozen",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_builders",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_hog",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_goblin",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_jungle",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_electro",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_bone",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_pekka",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_royal",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "pin_train",
+        "numberArray": null
+    },
+    {
+        "name": "COLLECTION_DAY_ARENAS",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena3",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena5",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena8",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena6",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena_L",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena1",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena9",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena_Electric",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena2",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena4",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Arena7",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "TrainingCamp",
+        "numberArray": null
+    },
+    {
+        "name": "CARDS_TO_UNLOCK_MINIMUM",
+        "numberValue": 12,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "PLAYERS_TO_HAVE_MAX_CARDS_UNLOCKED",
+        "numberValue": 40,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "NUM_DIFFERENT_CARDS_IN_CLAN_CHEST",
+        "numberValue": 5,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "NUM_DIFFERENT_CARDS_IN_CLAN_EXTRA_EVERY_X",
+        "numberValue": 300,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "USE_TARGET_LEVEL_FOR_DISTRIBUTION",
+        "numberValue": null,
+        "booleanValue": "TRUE",
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "COLLECTION_CHANCE_OF_RARE_MULTI_100",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 570
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 560
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 470
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 520
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 520
+    },
+    {
+        "name": "COLLECTION_CHANCE_OF_EPIC_MULTI_10",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 660
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 600
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 430
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 360
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 350
+    },
+    {
+        "name": "COLLECTION_CHANCE_OF_LEGENDARY",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 1940
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 1970
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 1130
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 780
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 680
+    },
+    {
+        "name": "PERCENTAGE_OF_CARDS_AT_MAX_TO_INCREASE_TARGET_LEVEL",
+        "numberValue": 70,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "NUM_LEGENDARY_UNLOCKED_MIN_OFFSET",
+        "numberValue": 3,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "NUM_LEGENDARY_UNLOCKED_MAX_OFFSET",
+        "numberValue": 6,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    },
+    {
+        "name": "ANTI_SPELL_SETS",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_Anti_SpicySpells",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_Anti_Buldings",
+        "numberArray": null
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": "Set_CW_Anti_Expensive",
+        "numberArray": null
+    },
+    {
+        "name": "ANTI_SPELL_SETS_MAX",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 1
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 2
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 2
+    },
+    {
+        "name": "ANTI_SPELL_SETS_INC_PER_X",
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 15
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 15
+    },
+    {
+        "name": null,
+        "numberValue": null,
+        "booleanValue": null,
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": 15
+    },
+    {
+        "name": "USE_LEAGUE_FOR_INITIAL_TARGET_LEVEL",
+        "numberValue": null,
+        "booleanValue": "TRUE",
+        "textValue": null,
+        "stringArray": null,
+        "numberArray": null
+    }
+]

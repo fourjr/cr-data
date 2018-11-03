@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Test1",
+        "sourceData": "Goblins",
+        "targetData": "Archer",
+        "stat1": "Hitpoints",
+        "operator": "div_roundup",
+        "stat2": "Damage",
+        "result": 2,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test2",
+        "sourceData": "Zap",
+        "targetData": "Goblins",
+        "stat1": "Damage",
+        "operator": "<",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test3",
+        "sourceData": "Prince",
+        "targetData": "Barbarians",
+        "stat1": "DamageSpecial",
+        "operator": ">=",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test4",
+        "sourceData": "Goblins",
+        "targetData": "Princess",
+        "stat1": "Hitpoints",
+        "operator": ">",
+        "stat2": "Damage",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test5",
+        "sourceData": "Bomber",
+        "targetData": "GiantSkeleton",
+        "stat1": "Hitpoints",
+        "operator": "div_roundup",
+        "stat2": "Damage",
+        "result": 2,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test6",
+        "sourceData": "Bomber",
+        "targetData": "Knight",
+        "stat1": "Hitpoints",
+        "operator": "div_roundup",
+        "stat2": "Damage",
+        "result": 2,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test7",
+        "sourceData": "Bomber",
+        "targetData": "Barbarians",
+        "stat1": "Hitpoints",
+        "operator": "div_roundup",
+        "stat2": "Damage",
+        "result": 2,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test8",
+        "sourceData": "Zap",
+        "targetData": "LavaPups",
+        "stat1": "Damage",
+        "operator": "<",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test9",
+        "sourceData": "Princess",
+        "targetData": "LavaPups",
+        "stat1": "Damage",
+        "operator": "<",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test10",
+        "sourceData": "FireSpirits",
+        "targetData": "LavaPups",
+        "stat1": "Damage",
+        "operator": "<",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test11",
+        "sourceData": "LavaPups",
+        "targetData": "PrincessTower",
+        "stat1": "Hitpoints",
+        "operator": "div_roundup",
+        "stat2": "Damage",
+        "result": 2,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test12",
+        "sourceData": "Rocket",
+        "targetData": "ZapMachine",
+        "stat1": "Damage",
+        "operator": ">=",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test13",
+        "sourceData": "Tombstone",
+        "targetData": "RageBarbarian",
+        "stat1": "Hitpoints",
+        "operator": "div_roundup",
+        "stat2": "Damage",
+        "result": 3,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test14",
+        "sourceData": "PrincessTower",
+        "targetData": "SkeletonWarriors",
+        "stat1": "Damage",
+        "operator": ">=",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test15",
+        "sourceData": "Minions",
+        "targetData": "Witch",
+        "stat1": "Hitpoints",
+        "operator": "div_roundup",
+        "stat2": "Damage",
+        "result": 3,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test16",
+        "sourceData": "Skeletons",
+        "targetData": "Witch",
+        "stat1": "Hitpoints",
+        "operator": "<",
+        "stat2": "Damage",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test17",
+        "sourceData": "Pekka",
+        "targetData": "Barbarians",
+        "stat1": "Damage",
+        "operator": ">=",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test18",
+        "sourceData": "Pekka",
+        "targetData": "Witch",
+        "stat1": "Damage",
+        "operator": ">=",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test19",
+        "sourceData": "Pekka",
+        "targetData": "IceWizard",
+        "stat1": "Damage",
+        "operator": ">=",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test20",
+        "sourceData": "Pekka",
+        "targetData": "Musketeer",
+        "stat1": "Damage",
+        "operator": ">=",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    },
+    {
+        "name": "Test21",
+        "sourceData": "Bomber",
+        "targetData": "Princess",
+        "stat1": "Damage",
+        "operator": ">=",
+        "stat2": "Hitpoints",
+        "result": null,
+        "enabled": "TRUE"
+    }
+]

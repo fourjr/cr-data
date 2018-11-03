@@ -1,0 +1,1562 @@
+[
+    {
+        "name": "ResourceEnum",
+        "option": "Gold"
+    },
+    {
+        "name": null,
+        "option": "Gems"
+    },
+    {
+        "name": "IconExportNameEnum",
+        "option": "icon_tournament_2x_elixir"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_2x_elixir_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_blind_deck"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_blind_deck_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_bronze"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_card_release"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_card_release_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_custom"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_draft"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_draft_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_gold"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_goldrush"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_goldrush_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_retro"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_retro_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_special"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_special_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_3x_elixir"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_3x_elixir_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_ramp_up"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_ramp_up_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_suddendeath"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_suddendeath_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_2v2"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_2v2_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_touchdown"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_touchdown_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_mirror"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_mirror_grand"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_rage"
+    },
+    {
+        "name": null,
+        "option": "icon_tournament_popdeck"
+    },
+    {
+        "name": "WinIconExportNameEnum",
+        "option": "tournament_open_wins_badge_bronze"
+    },
+    {
+        "name": null,
+        "option": "tournament_open_wins_badge_gold"
+    },
+    {
+        "name": null,
+        "option": "tournament_open_wins_badge_blind"
+    },
+    {
+        "name": null,
+        "option": "tournament_open_wins_badge_draft"
+    },
+    {
+        "name": null,
+        "option": "tournament_open_wins_badge_legendary"
+    },
+    {
+        "name": "CostTypeEnum",
+        "option": "IAP"
+    },
+    {
+        "name": null,
+        "option": "Gold"
+    },
+    {
+        "name": null,
+        "option": "Gems"
+    },
+    {
+        "name": null,
+        "option": "Free"
+    },
+    {
+        "name": null,
+        "option": "Auto_Gems"
+    },
+    {
+        "name": "OfferRewardEnum",
+        "option": "Chest"
+    },
+    {
+        "name": null,
+        "option": "Gold"
+    },
+    {
+        "name": null,
+        "option": "Gems"
+    },
+    {
+        "name": null,
+        "option": "Spell"
+    },
+    {
+        "name": null,
+        "option": "ChestWithCardTheme"
+    },
+    {
+        "name": null,
+        "option": "EmotePack"
+    },
+    {
+        "name": null,
+        "option": "TradeToken"
+    },
+    {
+        "name": "BillingPackages",
+        "option": "com.supercell.scroll.specialoffertier1"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier2"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier3"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier4"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier5"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier6"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier7"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier8"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier9"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier10"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier15"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier20"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier50"
+    },
+    {
+        "name": null,
+        "option": "com.supercell.scroll.specialoffertier60"
+    },
+    {
+        "name": "ArenaEnum",
+        "option": "All"
+    },
+    {
+        "name": null,
+        "option": "TrainingCamp"
+    },
+    {
+        "name": null,
+        "option": "Arena1"
+    },
+    {
+        "name": null,
+        "option": "Arena2"
+    },
+    {
+        "name": null,
+        "option": "Arena3"
+    },
+    {
+        "name": null,
+        "option": "Arena4"
+    },
+    {
+        "name": null,
+        "option": "Arena5"
+    },
+    {
+        "name": null,
+        "option": "Arena6"
+    },
+    {
+        "name": null,
+        "option": "Arena_L"
+    },
+    {
+        "name": null,
+        "option": "Arena7"
+    },
+    {
+        "name": null,
+        "option": "Arena8"
+    },
+    {
+        "name": null,
+        "option": "Arena9"
+    },
+    {
+        "name": null,
+        "option": "Arena_T"
+    },
+    {
+        "name": null,
+        "option": "Arena_TouchdownTest"
+    },
+    {
+        "name": null,
+        "option": "Arena_Electric"
+    },
+    {
+        "name": "ShopTemplates",
+        "option": "shop_item1_all_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_center_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_center_text_chest"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_left_right_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_left_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_left_text_chest"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_no_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_right_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_right_text_chest"
+    },
+    {
+        "name": null,
+        "option": "shop_item2_no_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item2_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item2_text_chest"
+    },
+    {
+        "name": null,
+        "option": "shop_item3_no_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item3_text"
+    },
+    {
+        "name": null,
+        "option": "shop_item3_text_chest"
+    },
+    {
+        "name": null,
+        "option": "shop_item3_text_chest_sml"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_drop_rate_01"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_drop_rate_02"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_emotepack"
+    },
+    {
+        "name": null,
+        "option": "shop_item2_emotepack"
+    },
+    {
+        "name": null,
+        "option": "shop_item1_emotepack_xtra"
+    },
+    {
+        "name": null,
+        "option": "shop_item2_emotepack_xtra"
+    },
+    {
+        "name": null,
+        "option": "shop_multi_chest_offer_1"
+    },
+    {
+        "name": null,
+        "option": "shop_multi_chest_offer_2"
+    },
+    {
+        "name": null,
+        "option": "shop_multi_chest_offer_3"
+    },
+    {
+        "name": null,
+        "option": "shop_multi_chest_offer_4"
+    },
+    {
+        "name": null,
+        "option": "shop_multi_chest_offer_5"
+    },
+    {
+        "name": "MilestoneTypeEnum",
+        "option": "Chest"
+    },
+    {
+        "name": null,
+        "option": "Gold"
+    },
+    {
+        "name": null,
+        "option": "Gems"
+    },
+    {
+        "name": null,
+        "option": "Spell"
+    },
+    {
+        "name": null,
+        "option": "RandomSpell"
+    },
+    {
+        "name": null,
+        "option": "TradeToken"
+    },
+    {
+        "name": "ChestEnum",
+        "option": "Giant_<max_arena>"
+    },
+    {
+        "name": null,
+        "option": "Magic_<max_arena>"
+    },
+    {
+        "name": null,
+        "option": "Epic_<max_arena>"
+    },
+    {
+        "name": null,
+        "option": "Legendary"
+    },
+    {
+        "name": null,
+        "option": "Super_<max_arena>"
+    },
+    {
+        "name": null,
+        "option": "Kings<shop>"
+    },
+    {
+        "name": null,
+        "option": "Lightning<shop>"
+    },
+    {
+        "name": null,
+        "option": "Silver_<max_arena>"
+    },
+    {
+        "name": null,
+        "option": "Gold_<max_arena>"
+    },
+    {
+        "name": "RarityEnum",
+        "option": "Common"
+    },
+    {
+        "name": null,
+        "option": "Rare"
+    },
+    {
+        "name": null,
+        "option": "Epic"
+    },
+    {
+        "name": null,
+        "option": "Legendary"
+    },
+    {
+        "name": "SkinEnum",
+        "option": "Skin1"
+    },
+    {
+        "name": null,
+        "option": "Skin2"
+    },
+    {
+        "name": null,
+        "option": "Skin3"
+    },
+    {
+        "name": null,
+        "option": "Skin4"
+    },
+    {
+        "name": null,
+        "option": "Skin5"
+    },
+    {
+        "name": null,
+        "option": "Skin6"
+    },
+    {
+        "name": null,
+        "option": "Skin7"
+    },
+    {
+        "name": null,
+        "option": "Skin8"
+    },
+    {
+        "name": null,
+        "option": "Skin9"
+    },
+    {
+        "name": null,
+        "option": "Skin10"
+    },
+    {
+        "name": null,
+        "option": "Skin11"
+    },
+    {
+        "name": null,
+        "option": "Skin12"
+    },
+    {
+        "name": "DraftDecks",
+        "option": "None"
+    },
+    {
+        "name": null,
+        "option": "Draft_v1"
+    },
+    {
+        "name": null,
+        "option": "Draft_Touchdown_v1"
+    },
+    {
+        "name": null,
+        "option": "Draft_H_v1"
+    },
+    {
+        "name": null,
+        "option": "Draft_v1_dec_card_release"
+    },
+    {
+        "name": null,
+        "option": "Draft_SnowHogs"
+    },
+    {
+        "name": null,
+        "option": "Draft_old"
+    },
+    {
+        "name": null,
+        "option": "Draft_Level5to8"
+    },
+    {
+        "name": null,
+        "option": "Draft_NewCardsTest"
+    },
+    {
+        "name": "DraftSets",
+        "option": "None"
+    },
+    {
+        "name": null,
+        "option": "Draft_AllRandom"
+    },
+    {
+        "name": null,
+        "option": "Draft_TankUnit"
+    },
+    {
+        "name": null,
+        "option": "Draft_Legendary"
+    },
+    {
+        "name": null,
+        "option": "Draft_AntiAir"
+    },
+    {
+        "name": null,
+        "option": "Draft_DamageSpell"
+    },
+    {
+        "name": null,
+        "option": "Draft_CheapDudes"
+    },
+    {
+        "name": null,
+        "option": "Draft_Buildings"
+    },
+    {
+        "name": null,
+        "option": "Draft_Aggressive"
+    },
+    {
+        "name": null,
+        "option": "Draft_CoolStuff"
+    },
+    {
+        "name": null,
+        "option": "Draft_3costUnit"
+    },
+    {
+        "name": null,
+        "option": "Draft_4costUnit"
+    },
+    {
+        "name": null,
+        "option": "Draft_5costUnit"
+    },
+    {
+        "name": null,
+        "option": "Draft_AllRandom"
+    },
+    {
+        "name": null,
+        "option": "Draft_CheapCards"
+    },
+    {
+        "name": null,
+        "option": "Draft_AntiAir2"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_TankUnit"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_AntiAir"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_CycleUnder3"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_DirectDamage"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_Punish"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_Investment"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_HitTower"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_CombatTricks"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_VersatileLegs"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_TankSupport"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_AntiTank"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_Distractions"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_Splash"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_MiniTank"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_WinCons"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_Basic3s"
+    },
+    {
+        "name": null,
+        "option": "Draft_RH_2ndSpell"
+    },
+    {
+        "name": null,
+        "option": "Draft_58_Tank"
+    },
+    {
+        "name": null,
+        "option": "Draft_58_Spell"
+    },
+    {
+        "name": null,
+        "option": "Draft_58_AntiAir"
+    },
+    {
+        "name": null,
+        "option": "Draft_58_Distractions"
+    },
+    {
+        "name": null,
+        "option": "Draft_58_AntiTank"
+    },
+    {
+        "name": null,
+        "option": "Draft_58_Buildings"
+    },
+    {
+        "name": null,
+        "option": "Draft_58_WinCons"
+    },
+    {
+        "name": null,
+        "option": "Draft_58_Splash"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_TankUnit"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_AntiAir"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_Distractions"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_DirectDamage"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_WinCons"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_NewCards"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_Investment"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_Punish"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_HitTower"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_CombatTricks"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_VersatileLegs"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_TankSupport"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_AntiTank"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_2ndSpell"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_Splash"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_MiniTank"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_Basic3s"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_CycleUnder3"
+    },
+    {
+        "name": null,
+        "option": "Draft_TEST_CheapAntiAir"
+    },
+    {
+        "name": "ClanChestTypeEnum",
+        "option": "ClanCrowns"
+    },
+    {
+        "name": null,
+        "option": "TeamBattle"
+    },
+    {
+        "name": "NotificationCategoryEnum",
+        "option": "Battle"
+    },
+    {
+        "name": null,
+        "option": "Clan"
+    },
+    {
+        "name": null,
+        "option": "Shop"
+    },
+    {
+        "name": null,
+        "option": "Challenge"
+    },
+    {
+        "name": null,
+        "option": "Cards"
+    },
+    {
+        "name": null,
+        "option": "RoyaleBox"
+    },
+    {
+        "name": "AccountTypeEnum",
+        "option": "AnyAccount"
+    },
+    {
+        "name": null,
+        "option": "DemoAccount"
+    },
+    {
+        "name": null,
+        "option": "NonDemoAccount"
+    },
+    {
+        "name": "GameModes_Friendly",
+        "option": "BlindDeck"
+    },
+    {
+        "name": null,
+        "option": "DoubleElixir_Friendly"
+    },
+    {
+        "name": null,
+        "option": "DraftMode"
+    },
+    {
+        "name": null,
+        "option": "DraftModeInsane"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam"
+    },
+    {
+        "name": null,
+        "option": "CardReleaseDraft"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeamDraftChallenge"
+    },
+    {
+        "name": null,
+        "option": "Overtime_Friendly"
+    },
+    {
+        "name": null,
+        "option": "TripleElixir_Friendly"
+    },
+    {
+        "name": null,
+        "option": "RampUpElixir_Friendly"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_DoubleElixir_Friendly"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_Overtime_Friendly"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_RampUpElixir_Friendly"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_DraftModeInsane_Friendly"
+    },
+    {
+        "name": null,
+        "option": "Touchdown_Draft"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_Touchdown_Draft"
+    },
+    {
+        "name": null,
+        "option": "MirrorDeck"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_MirrorDeck"
+    },
+    {
+        "name": null,
+        "option": "MirrorDeck_H"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_MirrorDeck_H"
+    },
+    {
+        "name": null,
+        "option": "Touchdown"
+    },
+    {
+        "name": null,
+        "option": "SwappingTowers_Friendly"
+    },
+    {
+        "name": null,
+        "option": "CheapElixir_Friendly"
+    },
+    {
+        "name": null,
+        "option": "CaptureTower_Friendly"
+    },
+    {
+        "name": null,
+        "option": "Rage_Friendly"
+    },
+    {
+        "name": null,
+        "option": "MirrorDeck_CW"
+    },
+    {
+        "name": null,
+        "option": "LavaFloor_Friendly"
+    },
+    {
+        "name": null,
+        "option": "ClassicDecks_Friendly"
+    },
+    {
+        "name": "GameModes_Challenge",
+        "option": "BlindDeck"
+    },
+    {
+        "name": null,
+        "option": "DoubleElixir"
+    },
+    {
+        "name": null,
+        "option": "DraftMode"
+    },
+    {
+        "name": null,
+        "option": "Challenge"
+    },
+    {
+        "name": null,
+        "option": "DraftModeInsane"
+    },
+    {
+        "name": null,
+        "option": "RetroRoyale"
+    },
+    {
+        "name": null,
+        "option": "CardRelease"
+    },
+    {
+        "name": null,
+        "option": "CardReleaseDraft"
+    },
+    {
+        "name": null,
+        "option": "Overtime_Tournament"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeamChallenge"
+    },
+    {
+        "name": null,
+        "option": "TripleElixir_Tournament"
+    },
+    {
+        "name": null,
+        "option": "RampUpElixir_Tournament"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeamDraftChallenge"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_DoubleElixir_Tournament"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_Overtime_Tournament"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_RampUpElixir_Tournament"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_DraftModeInsane_Friendly"
+    },
+    {
+        "name": null,
+        "option": "GoldRush_Tournament"
+    },
+    {
+        "name": null,
+        "option": "Touchdown_Draft"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_Touchdown_Draft"
+    },
+    {
+        "name": null,
+        "option": "MirrorDeck"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_MirrorDeck"
+    },
+    {
+        "name": null,
+        "option": "MirrorDeck_H"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_MirrorDeck_H"
+    },
+    {
+        "name": null,
+        "option": "ModernRoyale"
+    },
+    {
+        "name": null,
+        "option": "Touchdown"
+    },
+    {
+        "name": null,
+        "option": "CaptureTower_Friendly"
+    },
+    {
+        "name": null,
+        "option": "MirrorDeck_CW"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena1"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena2"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena3"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena4"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena5"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena6"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena7"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena8"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena9"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena10"
+    },
+    {
+        "name": null,
+        "option": "Event_NewArena11"
+    },
+    {
+        "name": null,
+        "option": "ClassicDecks_Friendly"
+    },
+    {
+        "name": null,
+        "option": "Rage_Tournament"
+    },
+    {
+        "name": "GameModes_Ladder",
+        "option": "Ladder"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeamLadder"
+    },
+    {
+        "name": "GameModesExtra_Ladder",
+        "option": "None"
+    },
+    {
+        "name": null,
+        "option": "Ladder_GoldRush"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeamLadder_GoldRush"
+    },
+    {
+        "name": null,
+        "option": "Ladder_GemRush"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeamLadder_GemRush"
+    },
+    {
+        "name": "BoostTypes",
+        "option": "VictoryGold"
+    },
+    {
+        "name": null,
+        "option": "CrownChestCards"
+    },
+    {
+        "name": null,
+        "option": "ChestSpeedUp"
+    },
+    {
+        "name": "ShopCycleSlot",
+        "option": "FREE_SMALL"
+    },
+    {
+        "name": null,
+        "option": "SMALL"
+    },
+    {
+        "name": null,
+        "option": "MEDIUM"
+    },
+    {
+        "name": null,
+        "option": "LARGE"
+    },
+    {
+        "name": null,
+        "option": "LARGE_VANILLA"
+    },
+    {
+        "name": "ShopCycleHighlight",
+        "option": "White"
+    },
+    {
+        "name": null,
+        "option": "Green"
+    },
+    {
+        "name": null,
+        "option": "None"
+    },
+    {
+        "name": null,
+        "option": "Gold"
+    },
+    {
+        "name": "ShopCycleType",
+        "option": "Spell"
+    },
+    {
+        "name": null,
+        "option": "Chest"
+    },
+    {
+        "name": "ShopCycleResourceType",
+        "option": "Gems"
+    },
+    {
+        "name": null,
+        "option": "Gold"
+    },
+    {
+        "name": null,
+        "option": "Auto"
+    },
+    {
+        "name": "ShopCycleSpellRarity",
+        "option": "Common"
+    },
+    {
+        "name": null,
+        "option": "Rare"
+    },
+    {
+        "name": null,
+        "option": "Epic"
+    },
+    {
+        "name": null,
+        "option": "Legendary"
+    },
+    {
+        "name": "ShopCycleChest",
+        "option": "Epic"
+    },
+    {
+        "name": null,
+        "option": "Legendary"
+    },
+    {
+        "name": "BaseChestEnum",
+        "option": "Silver"
+    },
+    {
+        "name": null,
+        "option": "Gold"
+    },
+    {
+        "name": null,
+        "option": "Giant"
+    },
+    {
+        "name": null,
+        "option": "Magic"
+    },
+    {
+        "name": null,
+        "option": "Legendary"
+    },
+    {
+        "name": null,
+        "option": "Super"
+    },
+    {
+        "name": "ShopCycleItem_Types",
+        "option": "SpecialChest"
+    },
+    {
+        "name": null,
+        "option": "Spell_Specific"
+    },
+    {
+        "name": null,
+        "option": "Spell_Rarity"
+    },
+    {
+        "name": null,
+        "option": "Chest"
+    },
+    {
+        "name": null,
+        "option": "Gems"
+    },
+    {
+        "name": null,
+        "option": "Gold"
+    },
+    {
+        "name": null,
+        "option": "Chest_CardTheme"
+    },
+    {
+        "name": "ChallengeXPLevel",
+        "option": "Noobies"
+    },
+    {
+        "name": null,
+        "option": "Experienced"
+    },
+    {
+        "name": null,
+        "option": "Everyone"
+    },
+    {
+        "name": "QuestTypeEnum",
+        "option": "PvE"
+    },
+    {
+        "name": null,
+        "option": "Daily"
+    },
+    {
+        "name": null,
+        "option": "Win"
+    },
+    {
+        "name": null,
+        "option": "Attack"
+    },
+    {
+        "name": null,
+        "option": "Cast"
+    },
+    {
+        "name": null,
+        "option": "Collect"
+    },
+    {
+        "name": null,
+        "option": "Donate"
+    },
+    {
+        "name": "QuestDonateTypeEnum",
+        "option": "Donate"
+    },
+    {
+        "name": null,
+        "option": "Request"
+    },
+    {
+        "name": null,
+        "option": "Receive"
+    },
+    {
+        "name": "QuestGameTypeEnum",
+        "option": "Ladder"
+    },
+    {
+        "name": null,
+        "option": "Tournament"
+    },
+    {
+        "name": null,
+        "option": "Friendly_Friend"
+    },
+    {
+        "name": null,
+        "option": "Friendly_Alliance"
+    },
+    {
+        "name": null,
+        "option": "Survival"
+    },
+    {
+        "name": null,
+        "option": "Trainer"
+    },
+    {
+        "name": null,
+        "option": "ClanWar"
+    },
+    {
+        "name": "QuestPlayerTypeEnum",
+        "option": "1v1"
+    },
+    {
+        "name": null,
+        "option": "2v2"
+    },
+    {
+        "name": "QuestAttackTypeEnum",
+        "option": "Hit"
+    },
+    {
+        "name": null,
+        "option": "Damage"
+    },
+    {
+        "name": null,
+        "option": "Destroy"
+    },
+    {
+        "name": null,
+        "option": "Touchdown"
+    },
+    {
+        "name": "QuestBattleCounterTypeEnum",
+        "option": "Games"
+    },
+    {
+        "name": null,
+        "option": "Wins"
+    },
+    {
+        "name": null,
+        "option": "Crowns"
+    },
+    {
+        "name": "QuestCollectTypeEnum",
+        "option": "Resource"
+    },
+    {
+        "name": null,
+        "option": "Chest"
+    },
+    {
+        "name": null,
+        "option": "Card"
+    },
+    {
+        "name": "QuestCollectResourceEnum",
+        "option": "Gold"
+    },
+    {
+        "name": null,
+        "option": "Diamonds"
+    },
+    {
+        "name": "QuestCastCardTypeEnum",
+        "option": "Building"
+    },
+    {
+        "name": null,
+        "option": "Character"
+    },
+    {
+        "name": null,
+        "option": "Spell"
+    },
+    {
+        "name": "QuestRewardTypeEnum",
+        "option": "Gold"
+    },
+    {
+        "name": null,
+        "option": "Gems"
+    },
+    {
+        "name": null,
+        "option": "Common"
+    },
+    {
+        "name": null,
+        "option": "Rare"
+    },
+    {
+        "name": null,
+        "option": "Epic"
+    },
+    {
+        "name": null,
+        "option": "FreeChest"
+    },
+    {
+        "name": null,
+        "option": "SilverChest"
+    },
+    {
+        "name": "ArenaPacksEnum",
+        "option": "StarterPackArena2"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArena3"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArena4"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArena5"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArena6"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArena7"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArena8"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArena9"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArenaL"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArenaE"
+    },
+    {
+        "name": null,
+        "option": "StarterPackArenaT"
+    },
+    {
+        "name": "QuestDonateRarityEnum",
+        "option": "Common"
+    },
+    {
+        "name": null,
+        "option": "Rare"
+    },
+    {
+        "name": null,
+        "option": "Epic"
+    },
+    {
+        "name": "LocationOverrideEnum",
+        "option": "None"
+    },
+    {
+        "name": null,
+        "option": "PvP_ice_xmas"
+    },
+    {
+        "name": null,
+        "option": "TeamVsTeam_ice_xmas"
+    }
+]
