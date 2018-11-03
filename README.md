@@ -2,4 +2,4 @@
 
 This is where CSV files get converted to JSONs
 
-`player_badges.json` is **not** from any CSV.
+basically, CR version of [fourjr/bs-data](https://github.com/fourjr/bs-data)
