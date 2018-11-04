@@ -38,7 +38,9 @@ if __name__ == '__main__':
 
             title = reader.fieldnames
 
-            data = []
+            if not fn.startswith('spells_') and fn != 'spells_buildings':
+                data = []
+
             for n, row in enumerate(reader):
                 if n == 0:
                     continue
@@ -85,7 +87,13 @@ if __name__ == '__main__':
                         rp_data[latest_grp].append(i['data'])
                 data = {i: rp_data[i] for i in sorted(rp_data.keys())}
 
-            save_fp = os.path.join('json', os.path.sep.join(os.path.normpath(fp).split(os.path.sep)[2:]).replace(os.path.sep, '.').replace('.csv', '.json'))
+            if not fn.startswith('spells_'):
+                save_fp = os.path.join('json', os.path.sep.join(os.path.normpath(fp).split(os.path.sep)[2:]).replace(os.path.sep, '.').replace('.csv', '.json'))
+            elif fn == 'spells_other':
+                save_fp = os.path.join('json', 'cards.json')
+            else:
+                continue
+
             with open(save_fp, 'w+') as f:
                 json.dump(data, f, indent=4)
 
