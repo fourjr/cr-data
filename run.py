@@ -26,7 +26,7 @@ if __name__ == '__main__':
         with open('config.yml', encoding='utf-8') as f:
             config = yaml.load(f)
     except FileNotFoundError:
-        config = {'id': []}
+        config = {'id': {}, 'combine': {}}
 
     csv_files = glob.iglob('csv/csv_*/**/*.csv', recursive=True)
 
@@ -38,7 +38,16 @@ if __name__ == '__main__':
 
             title = reader.fieldnames
 
-            if not fn.startswith('spells_') and fn != 'spells_buildings':
+            combine = False
+            set_data = True
+            for i in config['combine']:
+                if fn in config['combine'][i] and config['combine'][i][0] != fn:
+                    combine = config['combine'][i][0]
+                    if config['combine'][i][1] != fn:
+                        set_data = False
+                    break
+
+            if set_data:
                 data = []
 
             for n, row in enumerate(reader):
@@ -49,6 +58,8 @@ if __name__ == '__main__':
             for n, i in enumerate(data):
                 if fn in config['id']:
                     i['id'] = config['id'][fn] + n
+                if combine:
+                    i['category'] = fn.replace(combine, '')
                 for j in i:
                     if isinstance(i[j], str):
                         if i[j].startswith('TID_'):
@@ -87,10 +98,20 @@ if __name__ == '__main__':
                         rp_data[latest_grp].append(i['data'])
                 data = {i: rp_data[i] for i in sorted(rp_data.keys())}
 
-            if not fn.startswith('spells_'):
+            set_path = 1
+            if combine:
+                for i in config['combine']:
+                    if fn in config['combine'][i]:
+                        if config['combine'][i][-1] == fn:
+                            set_path = 2
+                        else:
+                            set_path = 0
+                        break
+
+            if set_path == 1:
                 save_fp = os.path.join('json', os.path.sep.join(os.path.normpath(fp).split(os.path.sep)[2:]).replace(os.path.sep, '.').replace('.csv', '.json'))
-            elif fn == 'spells_other':
-                save_fp = os.path.join('json', 'cards.json')
+            elif set_path == 2:
+                save_fp = os.path.join('json', f'{i}.json')
             else:
                 continue
 
